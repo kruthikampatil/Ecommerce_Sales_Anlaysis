@@ -1,0 +1,1002 @@
+﻿Order ID,Order Date,Customer Name,Product Name,Category,Sub-Category,Region,Sales,Profit,Quantity
+ORD0649,30-10-2024,Alexander Lopez,Pen,Office Supplies,Pen,East,20.13,1.38,6
+ORD0414,19-12-2024,Aaron Miller,Mouse,Technology,Mouse,East,23.39,4.45,10
+ORD0624,12-09-2024,Darrell Sosa,Bookshelf,Furniture,Bookshelf,North,24.3,4.03,7
+ORD0753,01-02-2025,Mary Liu,Paper,Office Supplies,Paper,East,24.98,3.11,2
+ORD0627,15-05-2024,Caitlin Guerra,Printer,Technology,Printer,West,32.07,1.63,9
+ORD0761,16-12-2024,Ronald Patterson,Keyboard,Technology,Keyboard,North,32.09,5.9,6
+ORD0977,30-08-2024,Dakota Trevino,Bookshelf,Furniture,Bookshelf,South,33.02,2.37,5
+ORD0056,19-03-2024,Matthew Morgan,Monitor,Technology,Monitor,South,33.05,5.6,4
+ORD0274,24-01-2024,Jennifer Carroll,Mouse,Technology,Mouse,West,33.41,6.13,8
+ORD0721,25-11-2024,Mr. Michael Stanley,Notebook,Office Supplies,Notebook,East,34.79,8.64,7
+ORD0564,29-02-2024,Christopher Santiago,Laptop,Technology,Laptop,West,40.89,10.62,3
+ORD0431,13-02-2025,Rodney Carter,Mouse,Technology,Mouse,East,41.28,3.76,7
+ORD0694,19-01-2025,Matthew Cannon,Desk,Furniture,Desk,South,42.63,11.1,7
+ORD0716,16-04-2024,Nicholas Oconnor,Monitor,Technology,Monitor,North,45.25,3.44,8
+ORD0643,06-05-2024,Richard Scott,Desk,Furniture,Desk,West,46.81,8.21,8
+ORD1000,21-01-2025,Jamie Cunningham,Table,Furniture,Table,East,54.45,5.74,4
+ORD0081,13-12-2024,Stacy Young,Laptop,Technology,Laptop,North,56.54,10.4,9
+ORD0809,10-03-2024,Olivia Moody,Printer,Technology,Printer,East,61.27,15.99,3
+ORD0126,04-06-2024,Tracy Olson,Keyboard,Technology,Keyboard,West,63.33,3.61,10
+ORD0916,20-05-2024,Lisa Zavala,Paper,Office Supplies,Paper,West,65.92,17.92,1
+ORD0918,11-01-2025,Sarah Fowler,Table,Furniture,Table,East,66.31,14.9,8
+ORD0263,26-05-2024,Mr. Robert Mora DVM,Keyboard,Technology,Keyboard,West,66.45,10.82,7
+ORD0617,05-12-2024,Nancy Wagner,Stapler,Office Supplies,Stapler,North,70.52,11,8
+ORD0632,10-03-2025,Michael Scott,Cabinet,Furniture,Cabinet,West,70.96,19.5,3
+ORD0120,11-01-2025,Marcus Perez,Chair,Furniture,Chair,West,71.2,20.29,6
+ORD0030,05-12-2024,Michael Rice,Paper,Office Supplies,Paper,North,73.41,16.83,2
+ORD0730,02-01-2025,Jordan Colon,Marker,Office Supplies,Marker,North,74.27,11.63,1
+ORD0797,24-03-2024,Phillip Robinson,Desk,Furniture,Desk,West,75.03,16.07,10
+ORD0122,17-11-2024,Andrea Middleton,Desk,Furniture,Desk,South,75.98,10.93,4
+ORD0681,10-03-2024,Justin Garcia,Chair,Furniture,Chair,East,76.68,4.34,7
+ORD0146,26-04-2025,Ethan Johnson,Monitor,Technology,Monitor,South,80.2,16.95,9
+ORD0058,26-02-2024,Steven Bradley Jr.,Chair,Furniture,Chair,South,81.5,16.51,4
+ORD0516,10-06-2024,Kimberly Jordan,Cabinet,Furniture,Cabinet,South,89.17,8.67,8
+ORD0567,17-04-2024,Thomas Johnson,Laptop,Technology,Laptop,North,90.26,8.72,7
+ORD0811,01-06-2024,Thomas Quinn,Pen,Office Supplies,Pen,East,91.19,15.41,2
+ORD0399,03-02-2024,David Wong,Notebook,Office Supplies,Notebook,South,91.77,12.02,10
+ORD0172,29-04-2025,Anthony Gray,Pen,Office Supplies,Pen,West,99.42,25.45,4
+ORD0253,04-10-2024,Sandra Hernandez,Paper,Office Supplies,Paper,South,106.05,17.17,4
+ORD0318,18-08-2024,Katrina Goodwin,Table,Furniture,Table,North,106.07,30.77,4
+ORD0359,22-03-2025,Jeffrey Beasley,Chair,Furniture,Chair,West,111.21,17.41,4
+ORD0994,10-12-2024,Patricia Booth,Table,Furniture,Table,North,111.23,20.35,6
+ORD0085,20-04-2025,Maria Miller,Keyboard,Technology,Keyboard,East,111.56,23.79,3
+ORD0335,01-09-2024,Mark Casey,Table,Furniture,Table,South,113.54,18.24,7
+ORD0240,20-01-2024,Michelle Farrell,Monitor,Technology,Monitor,East,114.22,14.54,5
+ORD0384,05-03-2025,Charles Pineda,Mouse,Technology,Mouse,East,114.65,31.1,5
+ORD0635,25-10-2024,Jamie Gray,Keyboard,Technology,Keyboard,South,122.97,26.35,4
+ORD0969,11-04-2024,Tracy Williams,Stapler,Office Supplies,Stapler,East,124.22,27.37,2
+ORD0941,08-08-2024,Whitney Kelley,Notebook,Office Supplies,Notebook,North,125.42,19.24,2
+ORD0158,13-11-2024,Jacob Thompson,Table,Furniture,Table,West,127.01,12.47,7
+ORD0281,23-09-2024,Christopher Martin,Table,Furniture,Table,East,127.4,10.79,4
+ORD0605,18-03-2025,Eugene Riley,Cabinet,Furniture,Cabinet,West,131.9,26.43,8
+ORD0037,29-04-2024,Patricia Walker,Desk,Furniture,Desk,East,139.08,40.05,5
+ORD0579,16-04-2024,Elijah Garcia,Monitor,Technology,Monitor,East,141.83,16.82,9
+ORD0264,12-06-2024,Christina Lowe,Stapler,Office Supplies,Stapler,West,143.54,38.23,4
+ORD0435,14-08-2024,Lance Smith,Keyboard,Technology,Keyboard,West,146.95,13.12,9
+ORD0442,21-09-2024,Fred Goodwin,Desk,Furniture,Desk,South,154.27,40.07,8
+ORD0267,04-12-2024,Mr. Ruben Grant,Keyboard,Technology,Keyboard,East,156.52,32.58,9
+ORD0252,11-08-2024,Barbara Bryan,Notebook,Office Supplies,Notebook,West,157.46,42.99,3
+ORD0394,18-02-2025,Anthony Martinez,Paper,Office Supplies,Paper,South,159.78,47.81,6
+ORD0660,08-03-2024,James Martin,Cabinet,Furniture,Cabinet,East,159.81,34.53,6
+ORD0347,08-10-2024,Brandon Jones,Marker,Office Supplies,Marker,North,161.38,31.85,9
+ORD0585,30-04-2024,Victoria Spencer,Chair,Furniture,Chair,West,162.61,25.91,1
+ORD0744,11-01-2025,Selena Garcia,Mouse,Technology,Mouse,North,170.3,28.53,9
+ORD0364,10-04-2025,Jessica Shaw,Marker,Office Supplies,Marker,North,175.94,51.55,9
+ORD0745,27-11-2024,James Olsen,Notebook,Office Supplies,Notebook,North,176.04,16.31,2
+ORD0825,04-11-2024,Shelby Baxter,Stapler,Office Supplies,Stapler,South,176.75,47.08,9
+ORD0613,22-02-2025,Amber Whitney,Bookshelf,Furniture,Bookshelf,East,182.7,44.84,4
+ORD0491,23-11-2024,Kimberly Morris,Laptop,Technology,Laptop,South,182.79,45.59,7
+ORD0437,18-01-2025,Samantha Robinson,Bookshelf,Furniture,Bookshelf,North,183.86,52.66,3
+ORD0288,18-09-2024,David Garcia,Keyboard,Technology,Keyboard,North,183.95,40.12,1
+ORD0262,17-04-2025,Robin Lee,Table,Furniture,Table,South,187.28,18.01,3
+ORD0209,10-05-2025,Cory Gray,Printer,Technology,Printer,East,188.38,29.34,10
+ORD0927,08-11-2024,David Rose,Notebook,Office Supplies,Notebook,South,188.91,41.75,7
+ORD0488,28-10-2024,Lauren Singh,Paper,Office Supplies,Paper,East,188.92,50.95,10
+ORD0439,09-03-2024,Amy Harris,Table,Furniture,Table,East,189.62,43.32,1
+ORD0482,22-06-2024,Jodi Johnson MD,Stapler,Office Supplies,Stapler,West,190.1,53.12,4
+ORD0882,03-01-2025,Brittney Walsh,Laptop,Technology,Laptop,East,193.03,39.38,7
+ORD0231,07-02-2025,John Zimmerman,Pen,Office Supplies,Pen,North,193.09,47.01,5
+ORD0939,08-11-2024,Mrs. Lindsey Robinson MD,Monitor,Technology,Monitor,South,193.22,54.65,5
+ORD0134,20-11-2024,Tammy Rogers,Notebook,Office Supplies,Notebook,East,193.94,44.54,5
+ORD0430,08-04-2024,Aaron Collins,Printer,Technology,Printer,North,197.48,33.84,3
+ORD0205,07-03-2025,Erica Noble,Pen,Office Supplies,Pen,West,200.7,17.41,5
+ORD0105,14-05-2024,Richard Figueroa,Pen,Office Supplies,Pen,North,201.01,59.12,6
+ORD0294,20-03-2025,Daniel Buckley,Printer,Technology,Printer,South,208.47,20,1
+ORD0985,04-12-2024,Clinton Meyer,Monitor,Technology,Monitor,West,211.07,24.2,8
+ORD0021,25-04-2025,Courtney Lam,Keyboard,Technology,Keyboard,West,213.59,25.27,6
+ORD0982,17-02-2024,Alexander Parker,Stapler,Office Supplies,Stapler,West,215.92,35.45,7
+ORD0197,16-01-2024,Jacob Watson,Table,Furniture,Table,South,220.81,24.19,2
+ORD0038,01-03-2025,Rachel Mcgee,Mouse,Technology,Mouse,East,222.57,46,10
+ORD0883,17-03-2025,Judy Davila,Cabinet,Furniture,Cabinet,South,227.36,67.15,8
+ORD0461,10-04-2025,Albert Hudson,Printer,Technology,Printer,East,232.63,67.94,3
+ORD0857,09-05-2025,Noah Flores,Marker,Office Supplies,Marker,South,232.69,55.14,5
+ORD0033,13-10-2024,Kyle Duran,Paper,Office Supplies,Paper,North,234.94,24.05,10
+ORD0470,30-09-2024,Jonathan Zuniga,Keyboard,Technology,Keyboard,East,236.41,16.38,9
+ORD0902,17-03-2025,Kevin Hamilton,Marker,Office Supplies,Marker,North,238.22,20.33,4
+ORD0348,31-12-2024,Pamela Newton,Printer,Technology,Printer,South,238.84,32.76,2
+ORD0536,19-03-2025,Gina Powell,Monitor,Technology,Monitor,West,242.49,26.15,4
+ORD0820,30-03-2025,Karen Sanders,Paper,Office Supplies,Paper,North,246.79,35.86,6
+ORD0787,06-03-2024,Danielle Mcconnell,Desk,Furniture,Desk,East,247.68,40.25,8
+ORD0900,19-04-2025,Richard Green,Stapler,Office Supplies,Stapler,East,248.08,64.62,4
+ORD0759,22-12-2024,Kevin Waters,Cabinet,Furniture,Cabinet,South,254.98,76.44,7
+ORD0616,21-09-2024,Charles Whitney,Keyboard,Technology,Keyboard,South,262.6,13.39,7
+ORD0204,03-10-2024,Allison Roberts,Notebook,Office Supplies,Notebook,North,262.99,36.07,7
+ORD0223,30-06-2024,Christopher Porter,Printer,Technology,Printer,West,266.66,59.42,9
+ORD0422,03-08-2024,Stephanie Smith,Marker,Office Supplies,Marker,South,269.62,35.63,7
+ORD0162,09-09-2024,Cameron Banks,Chair,Furniture,Chair,North,273.01,79.56,2
+ORD0933,23-02-2025,Melissa Hudson,Chair,Furniture,Chair,South,274.03,20.05,1
+ORD0544,10-01-2025,Melissa Lam,Stapler,Office Supplies,Stapler,West,277.34,67.16,2
+ORD0477,25-08-2024,Nicholas Sparks,Marker,Office Supplies,Marker,North,277.68,37.03,2
+ORD0444,25-03-2024,Tanya Mendoza,Printer,Technology,Printer,South,278.64,47.88,2
+ORD0434,28-04-2025,Juan Baxter,Table,Furniture,Table,West,287.34,55.54,1
+ORD0688,24-04-2024,Jason Silva,Mouse,Technology,Mouse,South,287.79,78.13,2
+ORD0505,10-05-2025,Crystal Arnold,Printer,Technology,Printer,East,288.15,36.54,10
+ORD0581,24-02-2024,Scott Washington,Table,Furniture,Table,West,289.16,81.97,6
+ORD0798,21-01-2025,Linda Johnson,Paper,Office Supplies,Paper,East,293.15,35.55,5
+ORD0168,17-06-2024,Kristi Davis,Printer,Technology,Printer,East,297.56,79.39,8
+ORD0389,05-08-2024,Justin Kennedy,Stapler,Office Supplies,Stapler,East,299.17,72.15,6
+ORD0346,19-02-2025,Cynthia Harris,Stapler,Office Supplies,Stapler,West,300.17,15.68,2
+ORD0326,26-03-2024,Kelli Malone,Cabinet,Furniture,Cabinet,West,303.05,37.31,5
+ORD0199,14-10-2024,Kenneth Keller,Keyboard,Technology,Keyboard,West,304.46,28.44,6
+ORD0305,26-01-2025,Ashley Harris,Printer,Technology,Printer,East,304.67,45.97,2
+ORD0302,08-09-2024,Darlene Carroll,Chair,Furniture,Chair,North,305.96,63.83,5
+ORD0152,17-04-2025,Leah Graham,Laptop,Technology,Laptop,East,306.09,51.75,7
+ORD0743,25-11-2024,Laura Rowland,Desk,Furniture,Desk,North,309.76,76.4,8
+ORD0415,19-11-2024,Anna Alvarado,Notebook,Office Supplies,Notebook,West,311.7,33.72,6
+ORD0254,13-10-2024,Mrs. Sherry Ball,Table,Furniture,Table,West,315.12,90.46,10
+ORD0487,05-10-2024,Sarah Lopez,Desk,Furniture,Desk,North,315.78,27.66,3
+ORD0702,08-11-2024,David May,Stapler,Office Supplies,Stapler,West,316.35,30.71,10
+ORD0047,30-03-2024,Andrew Price,Marker,Office Supplies,Marker,East,318.03,32.13,4
+ORD0530,30-08-2024,Kenneth Lopez,Pen,Office Supplies,Pen,South,318.62,23.29,10
+ORD0474,26-11-2024,Jordan Benson,Desk,Furniture,Desk,East,324.34,46.28,3
+ORD0813,06-02-2025,Shawn Dunn,Pen,Office Supplies,Pen,East,327.22,41.65,7
+ORD0036,10-04-2025,Sarah Graham,Monitor,Technology,Monitor,East,328.19,91.77,10
+ORD0699,24-04-2025,Mark Juarez,Chair,Furniture,Chair,West,330.01,77.03,5
+ORD0478,07-12-2024,Robert Anderson,Bookshelf,Furniture,Bookshelf,South,349.42,43.87,9
+ORD0116,04-09-2024,Nicole White,Notebook,Office Supplies,Notebook,North,350.47,35.53,4
+ORD0932,17-06-2024,Mr. Lance Dixon Jr.,Laptop,Technology,Laptop,North,352.01,52.56,3
+ORD0872,17-02-2025,Ashley Bishop,Mouse,Technology,Mouse,East,355.34,105.56,5
+ORD0697,01-07-2024,Donald Davis,Paper,Office Supplies,Paper,East,358.44,39.98,3
+ORD0545,24-05-2024,Mrs. Lauren Rodriguez,Laptop,Technology,Laptop,West,360.29,57.55,5
+ORD0420,10-09-2024,Ronald Morgan,Stapler,Office Supplies,Stapler,South,361.46,80.92,5
+ORD0317,19-11-2024,Jennifer Murphy,Cabinet,Furniture,Cabinet,North,362.2,27.37,9
+ORD0486,18-02-2025,Evelyn Spencer,Laptop,Technology,Laptop,East,363.75,27.96,1
+ORD0840,19-05-2024,Justin Martinez,Stapler,Office Supplies,Stapler,North,364.44,45.37,5
+ORD0005,14-09-2024,Paul Wang,Bookshelf,Furniture,Bookshelf,East,365.21,74.98,10
+ORD0701,04-04-2025,Adam Robinson,Mouse,Technology,Mouse,North,365.42,62.65,6
+ORD0337,14-05-2025,James Mora,Printer,Technology,Printer,North,365.63,52.42,7
+ORD0233,14-02-2025,Frank Hawkins,Notebook,Office Supplies,Notebook,West,366.62,66.92,1
+ORD0428,02-07-2024,Christopher Grant,Table,Furniture,Table,South,366.67,32.73,4
+ORD0856,25-07-2024,Robert Casey,Marker,Office Supplies,Marker,East,368.03,33.48,10
+ORD0687,23-04-2024,Ryan Watkins,Table,Furniture,Table,West,371.22,93.36,5
+ORD0070,28-03-2024,Michael Brown,Stapler,Office Supplies,Stapler,West,372.93,40.64,3
+ORD0184,08-04-2024,John Pena,Bookshelf,Furniture,Bookshelf,East,375.05,34.97,3
+ORD0413,24-10-2024,Dr. Michael Clarke,Paper,Office Supplies,Paper,West,376.37,110.08,9
+ORD0708,16-03-2024,Tonya Reynolds,Pen,Office Supplies,Pen,West,377.16,28.43,6
+ORD0363,08-04-2024,David Peters,Paper,Office Supplies,Paper,South,383.9,60.43,4
+ORD0316,09-08-2024,Connor Butler,Stapler,Office Supplies,Stapler,East,384.64,27.4,1
+ORD0041,05-05-2025,Vincent Woods,Chair,Furniture,Chair,West,385.97,36.4,2
+ORD0858,08-10-2024,Jesse Taylor,Mouse,Technology,Mouse,South,389.57,33.41,9
+ORD0443,19-09-2024,Morgan Brown,Keyboard,Technology,Keyboard,North,390.04,96.49,6
+ORD0607,06-08-2024,Robert Stone,Bookshelf,Furniture,Bookshelf,East,391.89,110.19,5
+ORD0266,14-01-2025,Lauren Mckee,Notebook,Office Supplies,Notebook,East,394.4,61.61,9
+ORD0580,28-04-2024,Larry Grimes,Mouse,Technology,Mouse,West,400.12,24.36,1
+ORD0206,07-04-2025,Patrick Macdonald,Mouse,Technology,Mouse,South,400.36,97.34,1
+ORD0309,17-06-2024,Sarah Galloway,Notebook,Office Supplies,Notebook,North,400.79,64.35,3
+ORD0113,10-02-2024,Jennifer Tate,Desk,Furniture,Desk,East,401.33,58.33,2
+ORD0061,28-02-2025,John Brown,Bookshelf,Furniture,Bookshelf,West,406.08,102.37,6
+ORD0749,08-08-2024,David Lopez,Notebook,Office Supplies,Notebook,South,408.68,82.23,2
+ORD0008,20-01-2024,Amy Cowan,Paper,Office Supplies,Paper,South,410.3,36.05,2
+ORD0880,09-06-2024,Sara Dixon,Notebook,Office Supplies,Notebook,West,411.22,76.84,6
+ORD0354,11-01-2025,Brandon Barnett,Laptop,Technology,Laptop,North,412.73,63.24,9
+ORD0754,15-02-2025,Nancy Short,Notebook,Office Supplies,Notebook,South,413.37,43.93,5
+ORD0908,14-12-2024,Monica Smith,Stapler,Office Supplies,Stapler,North,414.89,30.72,1
+ORD0044,14-01-2024,Danielle Moss,Bookshelf,Furniture,Bookshelf,North,419.25,29.09,9
+ORD0700,30-06-2024,Jerome Perry,Laptop,Technology,Laptop,East,422.35,106.14,6
+ORD0957,04-08-2024,Steven Perry,Bookshelf,Furniture,Bookshelf,South,424.33,72.77,7
+ORD0885,14-07-2024,Zachary Fry,Chair,Furniture,Chair,East,426,74.08,10
+ORD0733,30-04-2024,Melissa Williams,Marker,Office Supplies,Marker,West,426.6,54.32,7
+ORD0621,17-05-2024,Nicole Black,Stapler,Office Supplies,Stapler,North,434.22,113.56,7
+ORD0011,21-11-2024,Jennifer Bailey,Mouse,Technology,Mouse,North,435.74,59.87,6
+ORD0963,17-03-2024,Melissa Mckenzie,Laptop,Technology,Laptop,South,435.86,32.78,2
+ORD0502,02-11-2024,Lauren Warren,Bookshelf,Furniture,Bookshelf,North,436.67,23.19,3
+ORD0975,06-05-2025,Jessica Wolf,Table,Furniture,Table,West,436.88,81.27,6
+ORD0245,09-04-2025,Mark Newman,Bookshelf,Furniture,Bookshelf,West,437.39,72.34,8
+ORD0400,19-04-2024,Brian Butler,Cabinet,Furniture,Cabinet,West,439.95,27.01,1
+ORD0781,15-04-2024,Brittany Collins,Laptop,Technology,Laptop,East,444.74,47.73,7
+ORD0886,30-03-2025,Robert Landry,Desk,Furniture,Desk,South,446.99,107.76,9
+ORD0416,12-04-2024,Robert Harvey,Chair,Furniture,Chair,North,448.66,132.32,2
+ORD0446,24-03-2025,William Gonzalez,Stapler,Office Supplies,Stapler,South,449.63,80.68,2
+ORD0343,01-04-2024,Kenneth Cordova,Paper,Office Supplies,Paper,West,451.46,111.13,4
+ORD0506,29-12-2024,Curtis Hernandez,Stapler,Office Supplies,Stapler,East,454.25,135.23,10
+ORD0863,03-04-2024,Carl Kemp,Chair,Furniture,Chair,North,454.51,46.74,2
+ORD0230,23-05-2024,Anthony Smith,Table,Furniture,Table,South,454.76,88.07,9
+ORD0064,19-09-2024,David Williams,Laptop,Technology,Laptop,East,455.72,132.57,7
+ORD0572,23-06-2024,James Kerr,Monitor,Technology,Monitor,East,457.72,107.84,8
+ORD0995,21-02-2025,Vincent Dickson,Printer,Technology,Printer,South,458.71,107.39,1
+ORD0518,26-01-2024,Miguel Page,Notebook,Office Supplies,Notebook,North,459.63,54.45,2
+ORD0618,30-05-2024,Cynthia Castro,Laptop,Technology,Laptop,West,461.02,122.8,7
+ORD0127,27-02-2024,Tristan Hanson,Desk,Furniture,Desk,South,461.78,65.7,8
+ORD0238,18-02-2025,Cheryl Sexton,Laptop,Technology,Laptop,West,462.92,34,3
+ORD0669,22-08-2024,Matthew Mills,Desk,Furniture,Desk,North,464.38,50.72,9
+ORD0260,19-02-2025,Rebecca Greene,Bookshelf,Furniture,Bookshelf,East,475.23,38.48,1
+ORD0832,19-01-2024,Donald Haynes,Laptop,Technology,Laptop,South,478.93,86.54,9
+ORD0339,30-06-2024,Susan Morales,Paper,Office Supplies,Paper,East,480.81,43.44,4
+ORD0568,28-04-2024,Steven Mack,Bookshelf,Furniture,Bookshelf,South,482.11,119.71,8
+ORD0441,09-06-2024,Elizabeth Sanders,Desk,Furniture,Desk,East,485.67,92.88,2
+ORD0381,02-03-2025,Kristen Cortez DDS,Keyboard,Technology,Keyboard,West,486.84,80.23,7
+ORD0259,18-09-2024,Barbara Adams,Mouse,Technology,Mouse,East,487.18,44.54,7
+ORD0812,19-04-2025,Robert May,Marker,Office Supplies,Marker,South,487.29,136.42,7
+ORD0196,12-08-2024,David Richardson,Chair,Furniture,Chair,West,489.51,102.79,8
+ORD0198,02-10-2024,Holly Cook,Laptop,Technology,Laptop,South,489.99,29.79,3
+ORD0860,15-08-2024,Howard Rollins,Marker,Office Supplies,Marker,East,490.66,141.38,4
+ORD0012,14-02-2025,Martin Daniel II,Mouse,Technology,Mouse,North,493.13,74.63,3
+ORD0964,06-01-2024,Gregory Blevins,Monitor,Technology,Monitor,North,494.36,142.02,9
+ORD0118,02-09-2024,Jody Gonzales,Chair,Furniture,Chair,North,496.58,142.48,4
+ORD0338,27-04-2024,Christopher Nguyen,Printer,Technology,Printer,West,496.96,145.91,4
+ORD0986,23-01-2025,Benjamin Ballard,Bookshelf,Furniture,Bookshelf,South,498.32,135.29,6
+ORD0996,29-10-2024,Thomas Davis,Monitor,Technology,Monitor,North,498.54,121.23,6
+ORD0495,26-02-2025,Angela Harris,Paper,Office Supplies,Paper,North,499.42,68.86,10
+ORD0737,12-01-2025,Zachary Finley,Laptop,Technology,Laptop,East,500.31,39.16,2
+ORD0234,06-01-2024,Joshua Green,Keyboard,Technology,Keyboard,North,502.37,99.44,9
+ORD0625,12-02-2024,Stephen Brock,Mouse,Technology,Mouse,East,502.88,99.94,1
+ORD0341,14-09-2024,Tina Valdez,Desk,Furniture,Desk,West,503.56,62.15,9
+ORD0582,23-09-2024,Michael Roman,Marker,Office Supplies,Marker,South,503.59,75.94,4
+ORD0372,13-02-2024,Vincent Smith,Paper,Office Supplies,Paper,South,504.59,71.21,3
+ORD0868,03-03-2025,Matthew Taylor,Stapler,Office Supplies,Stapler,West,505.27,149.29,7
+ORD0132,30-03-2024,Bradley Smith,Laptop,Technology,Laptop,South,512.92,55.13,5
+ORD0966,08-04-2025,Beth Aguilar,Chair,Furniture,Chair,East,514.07,76.97,6
+ORD0944,12-01-2024,Matthew Kelly,Keyboard,Technology,Keyboard,South,514.2,74.35,7
+ORD0387,14-01-2024,Cassandra Sanchez,Paper,Office Supplies,Paper,South,514.96,56.05,1
+ORD0979,27-02-2024,Ray Carpenter,Printer,Technology,Printer,South,521.01,76.64,3
+ORD0597,03-12-2024,Kristopher Murphy,Keyboard,Technology,Keyboard,South,522.51,64.99,4
+ORD0250,15-03-2025,Gabriel Romero,Paper,Office Supplies,Paper,East,523.08,83.15,2
+ORD0107,19-07-2024,Michael Simmons,Table,Furniture,Table,West,524.84,78.82,5
+ORD0246,09-01-2025,Valerie Wood,Stapler,Office Supplies,Stapler,East,527.51,59.95,9
+ORD0193,19-06-2024,Alexander Cruz,Paper,Office Supplies,Paper,South,530.77,99.44,2
+ORD0875,24-07-2024,Ashley Phillips,Bookshelf,Furniture,Bookshelf,West,531.07,49.54,7
+ORD0569,27-03-2025,Phillip Payne,Printer,Technology,Printer,North,532.76,51.31,5
+ORD0519,21-07-2024,Tammy Decker,Laptop,Technology,Laptop,North,541.94,52.77,6
+ORD0940,09-02-2025,Linda Mckinney,Marker,Office Supplies,Marker,East,542.27,115.17,7
+ORD0816,18-05-2024,Garrett Strong,Pen,Office Supplies,Pen,West,542.28,149.78,2
+ORD0559,21-05-2024,Scott Price DDS,Cabinet,Furniture,Cabinet,West,546.11,153.1,9
+ORD0831,17-05-2024,Juan Woodard,Pen,Office Supplies,Pen,East,549.96,142.07,6
+ORD0115,23-04-2025,Lisa Roberts,Mouse,Technology,Mouse,South,549.98,91.77,8
+ORD0042,17-09-2024,Rebecca White,Bookshelf,Furniture,Bookshelf,South,551.81,97.83,4
+ORD0651,25-06-2024,Mary Mahoney,Mouse,Technology,Mouse,East,552.12,100.17,7
+ORD0562,02-03-2024,Douglas Lowe,Printer,Technology,Printer,East,553.11,103.55,9
+ORD0154,16-02-2024,Richard Gilbert,Printer,Technology,Printer,South,553.14,158.91,1
+ORD0455,21-09-2024,Chris Schmitt,Bookshelf,Furniture,Bookshelf,South,554.4,51.31,6
+ORD0861,04-07-2024,William Harrington,Table,Furniture,Table,South,556.13,89.62,3
+ORD0499,10-05-2025,Cynthia Pittman,Laptop,Technology,Laptop,North,563.68,73.24,1
+ORD0828,01-03-2024,Ashley Rogers,Chair,Furniture,Chair,West,564.94,106.44,2
+ORD0821,06-08-2024,Joshua Francis,Cabinet,Furniture,Cabinet,North,565.22,160.44,2
+ORD0920,04-12-2024,Alisha Paul,Mouse,Technology,Mouse,East,568.08,159.59,8
+ORD0925,06-11-2024,Marcus Hill,Cabinet,Furniture,Cabinet,West,568.52,104.47,5
+ORD0662,21-02-2025,Kenneth Hall,Pen,Office Supplies,Pen,North,568.63,68.31,6
+ORD0865,29-08-2024,Kristina Villarreal,Desk,Furniture,Desk,West,569.89,76.13,8
+ORD0356,20-04-2025,Laura Brown,Cabinet,Furniture,Cabinet,South,572.61,73.92,9
+ORD0248,10-11-2024,Richard Moore,Cabinet,Furniture,Cabinet,West,573.76,113.41,8
+ORD0228,07-12-2024,Angelica Barr,Notebook,Office Supplies,Notebook,North,574.95,114.46,10
+ORD0719,04-03-2024,Krista Li,Notebook,Office Supplies,Notebook,North,577.9,135.42,7
+ORD0031,11-03-2024,Belinda Miller,Stapler,Office Supplies,Stapler,South,580.7,112.42,9
+ORD0020,23-01-2024,Danielle White,Bookshelf,Furniture,Bookshelf,East,581.51,63.48,1
+ORD0015,23-05-2024,Jennifer Rodriguez,Paper,Office Supplies,Paper,East,584.32,125.4,5
+ORD0255,26-07-2024,Cynthia Brown,Paper,Office Supplies,Paper,South,585.51,169.54,1
+ORD0139,07-12-2024,Juan Henry,Pen,Office Supplies,Pen,West,586.18,109.92,2
+ORD0762,28-06-2024,Kaitlyn Vasquez,Printer,Technology,Printer,West,586.65,48.35,1
+ORD0785,26-05-2024,Tyler Thompson,Bookshelf,Furniture,Bookshelf,East,589.06,132.78,2
+ORD0892,08-08-2024,Chris Jackson,Notebook,Office Supplies,Notebook,West,589.12,50.1,7
+ORD0110,21-08-2024,Thomas Lambert,Bookshelf,Furniture,Bookshelf,South,592.93,90.21,1
+ORD0841,04-10-2024,Ryan Peterson,Desk,Furniture,Desk,East,593.94,99.83,2
+ORD0557,07-03-2024,Angel Rios,Laptop,Technology,Laptop,West,594.76,112.01,1
+ORD0854,29-10-2024,Brian Swanson,Stapler,Office Supplies,Stapler,East,597.84,158.24,10
+ORD0573,26-08-2024,Cindy Page,Desk,Furniture,Desk,North,602.35,172.28,9
+ORD0992,06-04-2024,Eric Villanueva,Table,Furniture,Table,North,602.76,173.74,10
+ORD0089,13-03-2025,Joshua Salazar,Notebook,Office Supplies,Notebook,East,603.27,126.72,8
+ORD0655,03-04-2025,Denise Mitchell,Paper,Office Supplies,Paper,North,604.75,172.72,2
+ORD0476,16-04-2024,Angela Rose,Stapler,Office Supplies,Stapler,West,609.85,41.8,2
+ORD0211,02-01-2025,Jodi Stewart,Keyboard,Technology,Keyboard,North,610,167.42,2
+ORD0671,02-11-2024,Cassandra Schmidt,Laptop,Technology,Laptop,North,611.35,165.15,7
+ORD0500,28-06-2024,Robert Mitchell,Paper,Office Supplies,Paper,East,611.42,66.77,4
+ORD0458,05-02-2025,Travis Miller,Mouse,Technology,Mouse,West,612.24,67.41,4
+ORD0758,20-02-2024,Jessica Burton,Marker,Office Supplies,Marker,East,615.63,98.87,10
+ORD0774,22-12-2024,Robert Baker,Pen,Office Supplies,Pen,East,618.49,182.93,9
+ORD0449,17-12-2024,Victor Smith,Bookshelf,Furniture,Bookshelf,South,618.77,37.09,6
+ORD0311,11-01-2025,Kayla Estrada,Printer,Technology,Printer,South,620.23,183.92,8
+ORD0855,03-09-2024,Joshua Davis,Printer,Technology,Printer,North,620.53,97.89,1
+ORD0603,19-01-2024,Robert Briggs,Monitor,Technology,Monitor,East,621.79,38.72,9
+ORD0091,07-12-2024,Mark Smith,Pen,Office Supplies,Pen,East,622.75,96.22,10
+ORD0306,22-02-2025,Brandon Pacheco,Desk,Furniture,Desk,North,624.21,65.92,8
+ORD0684,23-05-2024,Gabrielle Humphrey,Desk,Furniture,Desk,South,624.37,87.56,5
+ORD0570,18-09-2024,Jacob Edwards,Pen,Office Supplies,Pen,East,626.19,50.99,1
+ORD0094,02-03-2024,Patrick Cox,Cabinet,Furniture,Cabinet,West,628.93,168.72,4
+ORD0284,08-03-2024,Nicole Turner,Monitor,Technology,Monitor,North,629.19,36.39,5
+ORD0215,15-03-2024,David Warner,Table,Furniture,Table,North,638.51,129.95,1
+ORD0750,15-05-2025,Christopher Gilmore,Table,Furniture,Table,West,638.56,184.44,7
+ORD0377,25-01-2025,Katherine Guerrero,Marker,Office Supplies,Marker,South,639.75,147.62,2
+ORD0468,15-02-2024,Jim Torres,Marker,Office Supplies,Marker,West,639.86,146.98,9
+ORD0991,21-01-2025,Paul Joseph,Chair,Furniture,Chair,North,648.54,186.25,4
+ORD0391,01-06-2024,Jacqueline Cabrera,Stapler,Office Supplies,Stapler,East,652.25,33.25,6
+ORD0308,11-01-2024,Jonathan Vargas,Bookshelf,Furniture,Bookshelf,South,653.44,187.34,9
+ORD0707,27-04-2025,Amanda Nielsen,Notebook,Office Supplies,Notebook,East,660.08,102.16,4
+ORD0010,20-10-2024,Kathleen Johnson,Desk,Furniture,Desk,East,664.28,59.29,7
+ORD0261,18-02-2024,Anita Ortiz,Cabinet,Furniture,Cabinet,North,667.82,160.69,5
+ORD0864,13-01-2025,Joshua Allen,Monitor,Technology,Monitor,North,668.41,184.3,6
+ORD0147,24-04-2024,Mrs. Andrea Hayes,Pen,Office Supplies,Pen,South,670.65,180.65,5
+ORD0556,19-04-2024,Wendy Singleton,Cabinet,Furniture,Cabinet,South,676.97,65.49,4
+ORD0757,25-05-2024,Paul Lopez,Mouse,Technology,Mouse,North,678.54,55.67,2
+ORD0409,09-04-2025,William Villanueva,Notebook,Office Supplies,Notebook,West,679.8,167.74,1
+ORD0877,17-03-2025,Amanda Barnes,Laptop,Technology,Laptop,West,681.89,76.64,8
+ORD0438,16-04-2025,Erica Myers,Mouse,Technology,Mouse,West,691.12,87.75,8
+ORD0332,27-01-2025,Joseph Silva,Laptop,Technology,Laptop,North,696.45,52.82,6
+ORD0362,04-06-2024,Jeremy White,Pen,Office Supplies,Pen,South,697.04,186.37,4
+ORD0353,21-07-2024,Emily Gross,Marker,Office Supplies,Marker,North,703.22,109.03,9
+ORD0325,03-07-2024,Erin White,Keyboard,Technology,Keyboard,South,704.3,70.44,5
+ORD0782,15-07-2024,Lucas Long,Mouse,Technology,Mouse,East,704.68,207.81,5
+ORD0142,04-04-2025,Terri Shaw,Printer,Technology,Printer,South,707.35,184.96,9
+ORD0967,13-09-2024,Lawrence House,Monitor,Technology,Monitor,South,707.51,75.86,6
+ORD0713,16-02-2024,Henry Pope,Keyboard,Technology,Keyboard,North,710.33,134.61,8
+ORD0972,23-07-2024,Ashley Hutchinson,Paper,Office Supplies,Paper,East,711.49,87.03,8
+ORD0145,05-12-2024,Justin Wolfe,Table,Furniture,Table,East,714.69,175.98,5
+ORD0203,15-07-2024,Janice Salas,Stapler,Office Supplies,Stapler,West,714.7,65.54,8
+ORD0239,26-06-2024,Blake Francis,Monitor,Technology,Monitor,East,716.29,107.11,6
+ORD0382,15-02-2025,Abigail Owens,Pen,Office Supplies,Pen,North,718.31,209.1,2
+ORD0200,22-11-2024,Samantha Goodwin,Chair,Furniture,Chair,East,721.06,182.05,2
+ORD0375,15-02-2025,Erin Curtis,Monitor,Technology,Monitor,South,726.06,198.17,10
+ORD0773,29-12-2024,Mrs. Amber Saunders,Laptop,Technology,Laptop,South,727.11,109.98,5
+ORD0804,14-01-2025,Marc Khan,Bookshelf,Furniture,Bookshelf,North,727.64,93.65,8
+ORD0806,21-11-2024,Angela Thompson,Paper,Office Supplies,Paper,North,727.92,208.24,10
+ORD0447,20-01-2024,Ashley Lopez,Bookshelf,Furniture,Bookshelf,West,728.63,53.77,8
+ORD0130,18-03-2025,Joseph Thomas,Keyboard,Technology,Keyboard,North,729.7,63.89,1
+ORD0575,30-03-2025,Tanner Oneal,Pen,Office Supplies,Pen,West,732.29,145.58,5
+ORD0523,07-02-2025,Kevin Gregory Jr.,Paper,Office Supplies,Paper,East,732.34,136.72,10
+ORD0077,06-02-2024,Justin Johnston,Bookshelf,Furniture,Bookshelf,West,733.03,180.33,3
+ORD0039,04-02-2024,Samuel Lucas,Pen,Office Supplies,Pen,South,733.79,175.67,6
+ORD0591,01-11-2024,Guy Hunt,Laptop,Technology,Laptop,South,735.74,96.15,8
+ORD0244,16-08-2024,Roberta Melton,Stapler,Office Supplies,Stapler,West,739.99,50.79,4
+ORD0014,23-06-2024,Cheryl Smith,Notebook,Office Supplies,Notebook,East,741.17,219.83,7
+ORD0642,06-03-2024,Lance Martinez,Printer,Technology,Printer,North,745.32,199.68,10
+ORD0345,12-05-2025,Donna Murray,Monitor,Technology,Monitor,West,746.4,105.25,2
+ORD0533,02-05-2025,Carrie Holmes,Chair,Furniture,Chair,North,749.09,127.55,7
+ORD0386,14-03-2024,Morgan Shaw PhD,Keyboard,Technology,Keyboard,West,750.15,124.97,1
+ORD0051,23-02-2024,Tiffany Thomas,Stapler,Office Supplies,Stapler,North,754.75,119.99,7
+ORD0565,10-02-2025,Robert Schneider,Marker,Office Supplies,Marker,West,754.83,113.03,7
+ORD0891,02-10-2024,Travis Cox,Printer,Technology,Printer,South,760.77,122.33,5
+ORD0048,12-08-2024,Tracy Zimmerman,Mouse,Technology,Mouse,East,760.79,104.69,3
+ORD0349,03-05-2025,Amy Parsons,Laptop,Technology,Laptop,East,761.1,219.33,5
+ORD0083,06-03-2024,Bradley Mccarty,Laptop,Technology,Laptop,West,762.17,174.09,6
+ORD0249,30-04-2025,Leslie Spence,Bookshelf,Furniture,Bookshelf,North,764.04,152.39,10
+ORD0674,13-05-2024,Adrian Jones,Bookshelf,Furniture,Bookshelf,South,764.8,161.99,5
+ORD0904,12-07-2024,Vincent Greene,Pen,Office Supplies,Pen,North,765.46,150.01,2
+ORD0034,05-01-2024,Cody Travis,Keyboard,Technology,Keyboard,North,766.12,191.38,1
+ORD0371,26-10-2024,Megan Cisneros,Paper,Office Supplies,Paper,North,774.4,67.58,6
+ORD0874,16-03-2025,Bradley Lee,Table,Furniture,Table,North,774.67,212.47,8
+ORD0600,17-04-2024,Stacey Shields,Chair,Furniture,Chair,South,775.18,209.73,2
+ORD0351,02-06-2024,Daniel Sharp,Pen,Office Supplies,Pen,West,778.13,60.33,1
+ORD0913,19-03-2025,Stephanie Steele,Table,Furniture,Table,East,778.56,94.33,3
+ORD0657,18-05-2024,Douglas Pierce,Marker,Office Supplies,Marker,West,779.05,47.86,6
+ORD0634,10-03-2024,Kelly Beard,Bookshelf,Furniture,Bookshelf,South,799.49,72.18,4
+ORD0608,07-08-2024,Steven Mcdaniel,Marker,Office Supplies,Marker,South,801.87,129.52,2
+ORD0795,25-03-2024,Willie Mendoza MD,Mouse,Technology,Mouse,West,802.47,58.99,5
+ORD0803,08-02-2024,Jennifer Cameron,Bookshelf,Furniture,Bookshelf,West,804.78,99.98,9
+ORD0997,18-01-2024,Stacey Cherry,Monitor,Technology,Monitor,South,814.93,141.64,1
+ORD0682,16-05-2024,Tyler Gilmore Jr.,Bookshelf,Furniture,Bookshelf,South,815.49,68.57,6
+ORD0360,09-09-2024,Jennifer Hernandez,Keyboard,Technology,Keyboard,East,816.34,111.78,3
+ORD0793,13-06-2024,Dalton Thomas,Keyboard,Technology,Keyboard,West,817.36,157.26,7
+ORD0247,06-04-2025,Linda Lee,Notebook,Office Supplies,Notebook,West,819.11,151.21,3
+ORD0529,14-04-2025,Casey Morales,Notebook,Office Supplies,Notebook,East,826.94,108.11,5
+ORD0167,12-05-2025,Kayla Rush,Pen,Office Supplies,Pen,East,829.25,137.63,3
+ORD0827,08-04-2025,Sarah Good,Pen,Office Supplies,Pen,West,829.96,177.7,10
+ORD0220,10-02-2025,Stephanie Henderson,Cabinet,Furniture,Cabinet,West,831.3,63.33,1
+ORD0149,25-03-2025,Eric Bonilla,Mouse,Technology,Mouse,North,834.03,54.77,1
+ORD0275,23-02-2025,Matthew Thomas,Laptop,Technology,Laptop,South,834.93,176.09,4
+ORD0342,23-03-2025,Amber Baker MD,Paper,Office Supplies,Paper,West,835.5,72.17,4
+ORD0629,20-01-2025,Andres Matthews,Mouse,Technology,Mouse,North,836.39,83.03,3
+ORD0776,15-11-2024,Brittney Crawford,Marker,Office Supplies,Marker,South,837,214.61,2
+ORD0576,16-10-2024,Angela Cannon,Marker,Office Supplies,Marker,East,841.21,228.47,1
+ORD0410,06-09-2024,Deborah Jones,Printer,Technology,Printer,South,841.46,152.12,7
+ORD0273,02-05-2025,Lisa Lane,Printer,Technology,Printer,East,842.59,190.72,8
+ORD0321,09-01-2024,James Downs,Pen,Office Supplies,Pen,East,842.59,107.63,4
+ORD0887,13-11-2024,Christopher Phillips,Bookshelf,Furniture,Bookshelf,West,842.86,105.93,8
+ORD0609,27-08-2024,Nicholas Ramos,Laptop,Technology,Laptop,East,844.11,149.88,8
+ORD0954,04-11-2024,Juan Griffin,Monitor,Technology,Monitor,West,844.21,51.42,1
+ORD0930,04-12-2024,Sabrina Palmer,Chair,Furniture,Chair,North,844.89,56.95,4
+ORD0170,21-03-2024,Jeffrey Thomas,Pen,Office Supplies,Pen,South,846.59,76.32,10
+ORD0106,06-12-2024,Trevor Davis,Bookshelf,Furniture,Bookshelf,West,851.07,49.07,4
+ORD0173,05-08-2024,Michael Newman,Stapler,Office Supplies,Stapler,South,852.91,70.5,4
+ORD0361,25-10-2024,Darin Edwards,Printer,Technology,Printer,North,853.05,201.5,5
+ORD0884,21-03-2024,Shawn Coleman,Marker,Office Supplies,Marker,West,853.93,58.75,3
+ORD0691,10-08-2024,Angel Chavez,Mouse,Technology,Mouse,West,854.78,185.75,5
+ORD0210,20-10-2024,Lynn Fox,Cabinet,Furniture,Cabinet,East,858.17,167.04,10
+ORD0427,30-06-2024,Jonathan Deleon,Keyboard,Technology,Keyboard,South,858.21,207.68,5
+ORD0016,06-04-2025,Logan Foster,Cabinet,Furniture,Cabinet,East,860.81,157.91,1
+ORD0022,03-04-2024,Karen Clayton,Marker,Office Supplies,Marker,South,862.59,50.63,6
+ORD0004,15-07-2024,Rhonda Paul,Stapler,Office Supplies,Stapler,North,863.21,122.6,9
+ORD0783,24-07-2024,Melinda Franklin,Notebook,Office Supplies,Notebook,West,863.88,220.85,5
+ORD0297,20-04-2025,Nicole Hernandez MD,Stapler,Office Supplies,Stapler,East,865.28,143.26,10
+ORD0935,15-06-2024,Jeffrey Baker,Table,Furniture,Table,South,869.98,211.35,5
+ORD0463,18-10-2024,Yvonne Sanchez,Paper,Office Supplies,Paper,North,873.08,157.8,10
+ORD0114,03-06-2024,Melissa Reyes,Mouse,Technology,Mouse,South,875.94,163.88,8
+ORD0849,25-10-2024,Daniel Burnett,Notebook,Office Supplies,Notebook,North,876.81,99.72,6
+ORD0978,01-10-2024,Jacob Bowers,Table,Furniture,Table,West,883.8,262.85,2
+ORD0652,01-04-2025,Caroline Price,Monitor,Technology,Monitor,North,886.23,221.14,9
+ORD0006,30-04-2024,Nicole Henry,Marker,Office Supplies,Marker,East,886.64,135.35,10
+ORD0672,10-01-2025,Gary Parker,Notebook,Office Supplies,Notebook,North,891.41,152.43,4
+ORD0938,22-12-2024,Rebecca Allen,Printer,Technology,Printer,East,894.86,174.62,4
+ORD0390,18-01-2024,Adrian Brown,Cabinet,Furniture,Cabinet,South,895.67,141.97,6
+ORD0610,27-06-2024,Alexander Hayden,Desk,Furniture,Desk,South,896.37,223.56,3
+ORD0221,25-02-2025,Matthew Leonard,Laptop,Technology,Laptop,West,898.16,215.77,2
+ORD0794,07-03-2024,Joshua Walker,Laptop,Technology,Laptop,West,898.32,49.78,3
+ORD0380,02-02-2024,Arthur Howard DDS,Table,Furniture,Table,North,904.95,246.64,10
+ORD0734,07-06-2024,Richard Anderson,Stapler,Office Supplies,Stapler,North,907.42,175.06,3
+ORD0086,24-10-2024,Justin Padilla,Marker,Office Supplies,Marker,West,908.18,52.72,10
+ORD0901,18-01-2025,Barry Brooks,Printer,Technology,Printer,South,909.35,152.31,1
+ORD0181,05-12-2024,Jennifer Dunn,Cabinet,Furniture,Cabinet,South,914.13,247.82,6
+ORD0508,13-10-2024,Lauren Thompson,Cabinet,Furniture,Cabinet,North,914.82,140.08,4
+ORD0090,09-05-2024,Kristin Baird,Paper,Office Supplies,Paper,East,915.29,250.51,2
+ORD0926,10-03-2025,James Richards,Stapler,Office Supplies,Stapler,South,917.44,70.5,4
+ORD0775,03-05-2025,Albert Tanner,Bookshelf,Furniture,Bookshelf,South,918.31,100.48,2
+ORD0224,15-03-2025,Adrienne Barajas,Stapler,Office Supplies,Stapler,North,918.61,171.58,2
+ORD0739,19-01-2025,Mariah Vega,Table,Furniture,Table,South,918.9,257.05,4
+ORD0251,25-09-2024,Laura Benton,Bookshelf,Furniture,Bookshelf,South,920.6,69.39,9
+ORD0709,24-02-2024,Kirsten King,Laptop,Technology,Laptop,South,924.01,101.07,7
+ORD0622,02-02-2025,Jennifer Olsen,Notebook,Office Supplies,Notebook,North,927.67,185.42,7
+ORD0752,18-07-2024,Crystal Beasley,Laptop,Technology,Laptop,South,930.99,221.25,3
+ORD0063,06-08-2024,Sara Martinez,Monitor,Technology,Monitor,South,931.84,124.12,5
+ORD0396,20-04-2024,Tanya Bishop,Keyboard,Technology,Keyboard,East,933.2,100.32,5
+ORD0303,21-09-2024,Theresa Williams,Stapler,Office Supplies,Stapler,North,934.42,143.93,7
+ORD0102,14-05-2024,Alexander Moore,Monitor,Technology,Monitor,North,936.5,191.56,3
+ORD0087,21-01-2025,Nathan Gutierrez,Marker,Office Supplies,Marker,South,938.77,82.89,2
+ORD0561,31-03-2025,Joann Ray,Paper,Office Supplies,Paper,East,940.09,176.09,6
+ORD0928,04-02-2024,Samantha Brooks,Table,Furniture,Table,West,940.55,151.38,7
+ORD0680,30-04-2024,Dwayne Francis,Laptop,Technology,Laptop,South,942.6,168.27,5
+ORD0055,19-04-2025,Anthony Stephens,Monitor,Technology,Monitor,South,942.81,121.97,7
+ORD0535,21-09-2024,Melissa Atkins,Cabinet,Furniture,Cabinet,South,942.97,162.49,5
+ORD0522,16-02-2024,Aaron Martin,Bookshelf,Furniture,Bookshelf,South,943.05,226.96,10
+ORD0698,15-09-2024,Lisa Jimenez,Keyboard,Technology,Keyboard,West,943.65,74,2
+ORD0213,24-08-2024,Maria Lin,Monitor,Technology,Monitor,West,949.74,152.28,2
+ORD0547,31-10-2024,David Hester,Table,Furniture,Table,South,958.31,264.25,4
+ORD0689,16-09-2024,Emily Jackson,Monitor,Technology,Monitor,South,958.47,284.51,10
+ORD0049,24-11-2024,Sandra Bailey,Marker,Office Supplies,Marker,West,959.69,55.47,1
+ORD0626,13-12-2024,Troy Smith,Pen,Office Supplies,Pen,West,962.31,107.18,9
+ORD0185,28-08-2024,Troy Snyder,Cabinet,Furniture,Cabinet,South,967.13,107.04,5
+ORD0948,06-01-2025,Howard Nguyen,Marker,Office Supplies,Marker,South,968.58,192.71,10
+ORD0971,14-07-2024,Amber Russell,Notebook,Office Supplies,Notebook,North,973.5,161.16,3
+ORD0664,17-04-2024,Amy Decker,Keyboard,Technology,Keyboard,West,976.04,230.45,7
+ORD0945,15-11-2024,Daniel Wright,Desk,Furniture,Desk,East,976.74,222.48,2
+ORD0460,23-09-2024,Aimee Williams,Pen,Office Supplies,Pen,East,977.29,55.02,3
+ORD0459,03-05-2025,Julia Koch,Marker,Office Supplies,Marker,North,979.43,52.68,6
+ORD0735,06-11-2024,Gina Johnson,Printer,Technology,Printer,South,981.31,109.87,9
+ORD0653,02-05-2024,Renee Oneal,Laptop,Technology,Laptop,East,981.59,108.03,1
+ORD0683,07-03-2025,Aaron Bell,Stapler,Office Supplies,Stapler,East,984.47,269.5,9
+ORD0521,04-03-2024,Richard Phillips,Monitor,Technology,Monitor,South,984.97,86.31,8
+ORD0601,17-02-2025,Charles Coleman,Pen,Office Supplies,Pen,East,986.05,63.51,2
+ORD0532,12-02-2024,Jennifer Ford,Cabinet,Furniture,Cabinet,West,988.32,103.01,2
+ORD0936,16-01-2025,Joseph Durham,Table,Furniture,Table,West,989.74,73.18,9
+ORD0554,26-02-2025,George Lopez,Marker,Office Supplies,Marker,West,990.48,147.92,10
+ORD0919,10-03-2025,Melissa Johnson,Keyboard,Technology,Keyboard,North,991.56,97.74,6
+ORD0112,23-10-2024,Brendan Jackson,Notebook,Office Supplies,Notebook,North,994.74,88.32,7
+ORD0148,10-05-2025,Mrs. Kristi Atkinson,Paper,Office Supplies,Paper,South,995.17,93.44,2
+ORD0217,12-01-2025,Shannon Wong,Keyboard,Technology,Keyboard,West,996.64,179.23,4
+ORD0720,10-11-2024,Patrick Day,Laptop,Technology,Laptop,West,998.5,215.35,2
+ORD0905,02-04-2025,Jessica Ellis,Laptop,Technology,Laptop,South,1001.2,238.45,5
+ORD0911,12-10-2024,Catherine Alvarez,Mouse,Technology,Mouse,North,1007.5,53.38,10
+ORD0412,07-01-2024,Eric Parker,Cabinet,Furniture,Cabinet,North,1007.75,218.03,1
+ORD0073,22-04-2025,James Johnson,Marker,Office Supplies,Marker,East,1009.91,217.39,3
+ORD0269,03-10-2024,Julie Joyce,Cabinet,Furniture,Cabinet,West,1014.17,58.31,5
+ORD0768,25-03-2024,Peter Banks,Table,Furniture,Table,South,1016.59,161.7,1
+ORD0027,29-04-2025,Meghan Robinson,Keyboard,Technology,Keyboard,East,1017.41,73.46,1
+ORD0640,24-04-2024,Kathryn Little,Mouse,Technology,Mouse,East,1017.43,55.16,8
+ORD0960,25-09-2024,Brittany Mullins,Mouse,Technology,Mouse,West,1018.2,107.26,8
+ORD0526,25-12-2024,Zachary Black,Marker,Office Supplies,Marker,West,1018.86,58.34,9
+ORD0471,17-01-2024,Amber Brock,Marker,Office Supplies,Marker,North,1022.81,205.6,1
+ORD0222,25-12-2024,Sean Frye,Cabinet,Furniture,Cabinet,North,1022.84,202.88,3
+ORD0189,17-12-2024,Gregory Mason,Stapler,Office Supplies,Stapler,East,1023.52,223.37,1
+ORD0473,13-01-2025,James Rodgers,Chair,Furniture,Chair,North,1025.38,230.59,9
+ORD0929,28-04-2025,Jessica Hoffman,Laptop,Technology,Laptop,East,1026.75,280.08,4
+ORD0602,20-09-2024,Michael Alexander,Chair,Furniture,Chair,West,1027.9,236.86,7
+ORD0612,13-09-2024,Amber Wolf,Monitor,Technology,Monitor,West,1027.94,131.83,10
+ORD0358,04-03-2025,Matthew Young,Notebook,Office Supplies,Notebook,West,1032.78,189.89,2
+ORD0589,23-08-2024,Nicole Horn,Desk,Furniture,Desk,North,1033.92,143.68,6
+ORD0485,08-03-2024,Carol Mercado,Notebook,Office Supplies,Notebook,South,1034.57,129.39,9
+ORD0214,14-07-2024,Shawn Jackson,Desk,Furniture,Desk,South,1035.55,90.32,1
+ORD0590,02-01-2024,Stephen Campbell,Laptop,Technology,Laptop,East,1035.68,284.05,4
+ORD0786,11-12-2024,Joseph Blanchard,Printer,Technology,Printer,West,1038.83,253.16,3
+ORD0876,04-01-2024,Mark Beck,Keyboard,Technology,Keyboard,South,1041.62,52.23,2
+ORD0151,04-09-2024,Paige Garcia,Mouse,Technology,Mouse,East,1042.75,81.94,9
+ORD0286,23-03-2025,Brittany Higgins,Notebook,Office Supplies,Notebook,North,1045.22,169.67,10
+ORD0265,08-02-2024,Michael Lewis,Notebook,Office Supplies,Notebook,South,1046.4,140.93,5
+ORD0082,16-04-2025,Angela Bradford,Cabinet,Furniture,Cabinet,North,1046.65,244.13,4
+ORD0703,20-11-2024,Justin Huff,Keyboard,Technology,Keyboard,South,1046.66,151.7,9
+ORD0512,13-01-2024,Christine Schultz,Printer,Technology,Printer,East,1053.01,178.98,6
+ORD0350,04-02-2025,David Davis,Marker,Office Supplies,Marker,South,1063.65,304.35,6
+ORD0623,09-05-2025,Gina Ramirez,Notebook,Office Supplies,Notebook,South,1066.71,272.22,9
+ORD0002,28-03-2025,Christopher Sawyer,Pen,Office Supplies,Pen,West,1066.96,77.32,4
+ORD0588,05-01-2025,Brianna Haas,Table,Furniture,Table,South,1068.71,95.47,8
+ORD0790,04-05-2024,Cassandra Wolf,Marker,Office Supplies,Marker,East,1070.48,171.54,8
+ORD0407,07-06-2024,Lindsey Brown,Cabinet,Furniture,Cabinet,East,1071.29,161.38,9
+ORD0024,05-06-2024,Shawn Terry,Table,Furniture,Table,South,1074.02,245.2,3
+ORD0121,20-11-2024,Stephen Mccormick DDS,Paper,Office Supplies,Paper,West,1074.28,162.85,8
+ORD0778,07-09-2024,Lisa Lee,Laptop,Technology,Laptop,South,1074.74,125.2,4
+ORD0970,26-04-2025,David Rodriguez,Laptop,Technology,Laptop,East,1075.62,320.74,7
+ORD0873,04-01-2024,Ian Rangel,Laptop,Technology,Laptop,South,1076.45,132.07,5
+ORD0937,16-08-2024,Scott Hanson,Cabinet,Furniture,Cabinet,North,1076.81,225.75,7
+ORD0637,11-06-2024,Kristina Randall,Bookshelf,Furniture,Bookshelf,East,1078.56,322.43,1
+ORD0679,18-06-2024,Christine Ferguson,Desk,Furniture,Desk,North,1079.41,81.24,4
+ORD0815,10-11-2024,Patrick Callahan,Marker,Office Supplies,Marker,North,1080.78,147.82,10
+ORD0129,26-04-2024,Tyrone Aguilar,Cabinet,Furniture,Cabinet,East,1082.35,193.05,4
+ORD0327,24-04-2025,Nathaniel Wright,Paper,Office Supplies,Paper,East,1087.72,223.82,8
+ORD0072,20-03-2025,Zachary Thompson,Table,Furniture,Table,North,1089.42,319,3
+ORD0494,25-06-2024,Dr. Christopher Hunt,Laptop,Technology,Laptop,East,1089.54,135.45,5
+ORD0467,15-11-2024,Nicole Welch,Laptop,Technology,Laptop,South,1092.18,69.88,10
+ORD0481,27-09-2024,Denise Bryant,Bookshelf,Furniture,Bookshelf,West,1094.29,241.54,7
+ORD0153,22-04-2025,Ronald Hodges,Table,Furniture,Table,North,1099.4,312.44,1
+ORD0534,30-03-2024,Heather Thompson,Cabinet,Furniture,Cabinet,North,1100.24,85.24,1
+ORD0137,05-05-2024,Andrea Osborne,Cabinet,Furniture,Cabinet,South,1100.27,64.88,4
+ORD0163,19-07-2024,Carlos Miller,Notebook,Office Supplies,Notebook,North,1103.35,67.97,7
+ORD0678,16-12-2024,Amber Henderson,Desk,Furniture,Desk,North,1103.7,163.9,4
+ORD0712,26-03-2025,Crystal York,Chair,Furniture,Chair,West,1105.63,165.53,8
+ORD0333,18-09-2024,Antonio Harding,Notebook,Office Supplies,Notebook,North,1108,263.7,8
+ORD0498,13-10-2024,Elizabeth Johnson,Printer,Technology,Printer,South,1109.03,251.7,6
+ORD0424,17-01-2024,Donna Gonzalez,Desk,Furniture,Desk,South,1109.89,292.72,3
+ORD0537,22-01-2025,Michael Thomas,Paper,Office Supplies,Paper,South,1112.28,140.74,2
+ORD0541,05-02-2024,Alan Hernandez,Stapler,Office Supplies,Stapler,West,1114.35,195.99,5
+ORD0119,09-02-2024,Amanda Brock,Bookshelf,Furniture,Bookshelf,South,1115.11,163.78,9
+ORD0848,16-02-2024,Lori Walker,Keyboard,Technology,Keyboard,North,1115.86,140.75,8
+ORD0054,19-11-2024,Donna Maxwell,Desk,Furniture,Desk,South,1118.63,186.98,5
+ORD0722,22-10-2024,Victor Floyd,Desk,Furniture,Desk,North,1119.35,96.69,7
+ORD0208,14-05-2024,Kyle Bailey,Monitor,Technology,Monitor,North,1119.44,238.8,4
+ORD0272,16-11-2024,Heather Johnson,Chair,Furniture,Chair,East,1119.74,266.33,10
+ORD0429,17-01-2025,Mark Floyd,Bookshelf,Furniture,Bookshelf,South,1122.41,131.47,3
+ORD0270,06-06-2024,Andrew Shields,Marker,Office Supplies,Marker,North,1123.55,70.78,4
+ORD0756,08-10-2024,Mark Valdez,Table,Furniture,Table,South,1128.23,238.68,5
+ORD0511,24-05-2024,Laura Barry,Pen,Office Supplies,Pen,North,1128.43,276.67,3
+ORD0751,07-04-2024,Susan Caldwell,Chair,Furniture,Chair,North,1128.66,162.54,5
+ORD0946,23-03-2024,Martin Gilmore,Notebook,Office Supplies,Notebook,North,1131.83,115.49,4
+ORD0893,29-03-2024,Ronald Brown,Keyboard,Technology,Keyboard,East,1134.72,150.45,7
+ORD0277,28-07-2024,Alexander Rodriguez,Laptop,Technology,Laptop,North,1137.73,261.01,10
+ORD0645,14-06-2024,James Rogers,Pen,Office Supplies,Pen,North,1139.24,160.25,5
+ORD0188,13-02-2025,Raymond Clark,Table,Furniture,Table,West,1142.5,221.47,9
+ORD0553,25-01-2024,Dylan Carter,Notebook,Office Supplies,Notebook,West,1144.82,264.16,7
+ORD0746,11-04-2025,Alyssa Morton,Marker,Office Supplies,Marker,East,1145.53,184.74,1
+ORD0802,15-08-2024,Alexis Carrillo,Bookshelf,Furniture,Bookshelf,West,1145.73,152.23,7
+ORD0071,13-05-2024,Justin Wilkins,Desk,Furniture,Desk,North,1151.4,311.5,2
+ORD0543,02-03-2025,Christopher Kim,Marker,Office Supplies,Marker,West,1152.06,116.56,5
+ORD0639,01-03-2024,Jeffrey Adams,Pen,Office Supplies,Pen,West,1152.32,101.78,5
+ORD0392,09-04-2025,Ryan Schroeder,Marker,Office Supplies,Marker,North,1152.86,285.46,3
+ORD0673,03-03-2025,Amy Lloyd MD,Monitor,Technology,Monitor,South,1152.98,67.27,3
+ORD0889,22-09-2024,Nicolas Carter,Pen,Office Supplies,Pen,East,1154.26,223.16,8
+ORD0947,07-04-2025,Sarah Jones,Paper,Office Supplies,Paper,North,1154.54,300.07,8
+ORD0550,15-10-2024,Crystal Conrad,Stapler,Office Supplies,Stapler,West,1156.53,145.19,7
+ORD0296,20-06-2024,Cody Riley,Notebook,Office Supplies,Notebook,North,1159.14,230.1,3
+ORD0453,02-01-2024,Michael Garcia,Stapler,Office Supplies,Stapler,West,1162.56,333.51,5
+ORD0951,02-05-2024,Brian Archer,Notebook,Office Supplies,Notebook,North,1163.96,201.08,10
+ORD0497,18-08-2024,Susan Simmons,Mouse,Technology,Mouse,East,1163.98,63.17,4
+ORD0824,28-03-2024,Ryan Chavez,Desk,Furniture,Desk,West,1166.65,214.42,6
+ORD0226,14-05-2025,Laura Li,Bookshelf,Furniture,Bookshelf,North,1167.49,175.86,2
+ORD0981,27-08-2024,Vicki Simmons,Monitor,Technology,Monitor,North,1168.25,249.01,6
+ORD0769,26-07-2024,Lindsay Baldwin,Stapler,Office Supplies,Stapler,South,1169.39,149.51,2
+ORD0666,20-12-2024,Carol Tucker,Monitor,Technology,Monitor,South,1170.64,130.56,3
+ORD0808,28-01-2024,Aaron Jefferson,Marker,Office Supplies,Marker,West,1171.66,333.18,9
+ORD0646,27-08-2024,Brandon Harrell,Mouse,Technology,Mouse,West,1171.76,293.18,8
+ORD0194,03-12-2024,Kimberly Roberson,Monitor,Technology,Monitor,West,1172.43,268.84,9
+ORD0542,10-01-2024,Mark Pope,Monitor,Technology,Monitor,South,1174.58,236.55,7
+ORD0144,15-11-2024,Dennis Harrington,Table,Furniture,Table,East,1177.07,302.99,4
+ORD0018,27-04-2025,Lawrence Santiago,Keyboard,Technology,Keyboard,North,1177.89,184.56,9
+ORD0059,01-01-2024,Lisa Peck,Cabinet,Furniture,Cabinet,East,1180.55,343.88,5
+ORD0987,01-04-2025,Barbara Lang,Desk,Furniture,Desk,North,1183.53,139.85,5
+ORD0236,09-02-2024,Tiffany Thompson,Paper,Office Supplies,Paper,East,1185.7,88.03,5
+ORD0732,15-03-2025,Dustin Jones,Cabinet,Furniture,Cabinet,South,1185.71,304.29,10
+ORD0017,02-01-2024,Peter Moore,Monitor,Technology,Monitor,West,1187.01,185.28,4
+ORD0958,14-05-2024,Jonathan Hines,Keyboard,Technology,Keyboard,West,1188.44,329.55,5
+ORD0956,16-04-2025,Richard Brewer,Table,Furniture,Table,South,1191.32,345.02,8
+ORD0852,04-04-2025,Corey Meadows,Desk,Furniture,Desk,South,1196.04,198.85,4
+ORD0472,26-04-2024,Anna Wood,Stapler,Office Supplies,Stapler,South,1197.07,221.08,10
+ORD0078,16-04-2025,Ryan Anderson,Table,Furniture,Table,East,1198.79,357.56,2
+ORD0280,23-04-2024,Andrew Schmitt,Mouse,Technology,Mouse,West,1202.89,94.36,3
+ORD0155,13-05-2024,Lisa Crawford,Laptop,Technology,Laptop,South,1203.03,291.48,3
+ORD0980,22-07-2024,Michael Stafford,Cabinet,Furniture,Cabinet,West,1204.94,267.57,4
+ORD0914,21-11-2024,Gina Frank,Chair,Furniture,Chair,West,1204.96,217.2,8
+ORD0974,22-12-2024,Nicolas Fowler,Stapler,Office Supplies,Stapler,West,1206.84,66.29,8
+ORD0283,28-02-2024,Darrell Kelly,Stapler,Office Supplies,Stapler,South,1207,171.67,6
+ORD0103,11-04-2024,Ryan Sanchez,Bookshelf,Furniture,Bookshelf,South,1213.81,330.41,3
+ORD0157,07-05-2025,Alan Baird,Table,Furniture,Table,West,1214.53,231.85,3
+ORD0574,02-09-2024,Katherine Lee,Laptop,Technology,Laptop,East,1215.16,257.75,3
+ORD0538,29-02-2024,Shannon Davis,Paper,Office Supplies,Paper,East,1216.27,131.59,9
+ORD0290,19-10-2024,Christopher Mitchell,Laptop,Technology,Laptop,West,1216.81,212.82,1
+ORD0748,26-03-2025,Samantha Mullen,Monitor,Technology,Monitor,South,1219.46,159.78,6
+ORD0952,27-11-2024,Curtis Hill,Bookshelf,Furniture,Bookshelf,West,1219.66,265.05,1
+ORD0710,01-02-2025,Mr. Sean Cameron MD,Desk,Furniture,Desk,West,1221.28,258.31,2
+ORD0336,20-02-2024,Matthew Davies,Printer,Technology,Printer,North,1228.22,205.43,10
+ORD0728,06-01-2024,Garrett Braun,Paper,Office Supplies,Paper,South,1228.86,207.98,1
+ORD0123,08-10-2024,Taylor Barnes,Pen,Office Supplies,Pen,South,1231.26,331.26,2
+ORD0685,15-10-2024,Stefanie Burton,Pen,Office Supplies,Pen,North,1239.99,321.7,8
+ORD0397,23-01-2024,Jill Ford,Pen,Office Supplies,Pen,West,1251.52,168.53,9
+ORD0770,12-03-2025,Nicole Donovan,Pen,Office Supplies,Pen,North,1252.3,223.79,6
+ORD0187,14-11-2024,Edward Smith,Pen,Office Supplies,Pen,North,1253.25,342.97,6
+ORD0062,05-01-2024,Colin Sampson,Printer,Technology,Printer,North,1254.02,111.05,10
+ORD0595,25-12-2024,Angela Giles,Chair,Furniture,Chair,North,1254.12,102.7,7
+ORD0912,06-02-2024,James Howard,Monitor,Technology,Monitor,North,1254.33,112.35,2
+ORD0289,05-04-2024,Jason Grant,Table,Furniture,Table,South,1254.68,117.9,9
+ORD0520,06-01-2025,Emily Todd,Stapler,Office Supplies,Stapler,East,1258.41,132.39,5
+ORD0402,19-08-2024,Jessica Leon,Stapler,Office Supplies,Stapler,West,1259.81,363.3,5
+ORD0801,25-03-2025,Jennifer Reid,Bookshelf,Furniture,Bookshelf,West,1260.07,171.16,2
+ORD0638,29-04-2024,Katherine Carpenter,Paper,Office Supplies,Paper,South,1260.15,313.57,3
+ORD0367,04-01-2024,David Cox,Chair,Furniture,Chair,South,1264.97,355.9,5
+ORD0560,26-04-2024,Tiffany Goodman,Pen,Office Supplies,Pen,West,1265.21,266.35,5
+ORD0216,13-08-2024,Anna Baker,Marker,Office Supplies,Marker,North,1268.91,107.45,9
+ORD0023,21-05-2024,Rachel Moore,Paper,Office Supplies,Paper,North,1269.73,71.84,5
+ORD0723,10-02-2024,Troy Chavez,Notebook,Office Supplies,Notebook,West,1273.23,111.01,7
+ORD0219,10-02-2024,Stephen Wells,Bookshelf,Furniture,Bookshelf,North,1277.45,164.69,4
+ORD0983,25-05-2024,Bryce Becker,Bookshelf,Furniture,Bookshelf,North,1278.85,228.03,4
+ORD0368,26-04-2025,Emily Shaw,Laptop,Technology,Laptop,South,1279.37,212.29,3
+ORD0201,18-06-2024,Luis Davis,Cabinet,Furniture,Cabinet,North,1282.5,288.86,4
+ORD0212,19-01-2024,Lori Olson,Monitor,Technology,Monitor,West,1283.91,74.39,4
+ORD0845,04-02-2025,Monica Miles,Laptop,Technology,Laptop,South,1284.24,377.46,6
+ORD0404,06-01-2024,Jacob Mcdowell,Pen,Office Supplies,Pen,West,1288.05,74.14,1
+ORD0942,01-01-2025,Douglas Johnson,Marker,Office Supplies,Marker,North,1290.78,149.54,1
+ORD0301,09-01-2024,Sean Brooks,Mouse,Technology,Mouse,South,1291.66,279.19,7
+ORD0117,18-05-2024,Lisa Melendez,Table,Furniture,Table,North,1291.92,182.2,10
+ORD0718,22-07-2024,Elaine Campbell,Notebook,Office Supplies,Notebook,South,1293.16,79.33,2
+ORD0084,20-03-2025,Jacob Reed,Chair,Furniture,Chair,North,1297.52,122.09,9
+ORD0501,31-12-2024,David Young,Bookshelf,Furniture,Bookshelf,West,1308.19,133.8,7
+ORD0989,02-05-2025,Angelica Gordon,Chair,Furniture,Chair,North,1310.72,236.01,10
+ORD0496,22-12-2024,Jamie Serrano,Printer,Technology,Printer,South,1312.15,219.89,1
+ORD0340,20-07-2024,Kayla Ryan,Marker,Office Supplies,Marker,East,1313.72,143.33,6
+ORD0663,26-02-2024,David Hatfield,Paper,Office Supplies,Paper,South,1316.12,332.8,4
+ORD0057,18-04-2024,Kimberly Johnson,Printer,Technology,Printer,West,1316.43,231.2,5
+ORD0741,14-05-2025,Angela Watson,Stapler,Office Supplies,Stapler,South,1317.39,298.88,4
+ORD0462,28-03-2025,Jonathan Ford,Chair,Furniture,Chair,South,1319.83,69.08,4
+ORD0656,27-04-2024,Mario Sweeney,Marker,Office Supplies,Marker,South,1320.64,238.92,4
+ORD0426,20-03-2024,Thomas Hernandez,Desk,Furniture,Desk,East,1323.78,308.59,3
+ORD0800,10-04-2024,Kim Burton,Desk,Furniture,Desk,South,1325.48,148.53,8
+ORD0166,05-11-2024,Nicole Miller,Paper,Office Supplies,Paper,South,1325.54,124.57,9
+ORD0706,28-03-2025,Jasmine Ochoa,Bookshelf,Furniture,Bookshelf,North,1325.67,149.59,10
+ORD0411,01-02-2024,Jackie Richardson,Table,Furniture,Table,South,1330.32,281.13,7
+ORD0232,09-01-2024,Mary Thomas,Table,Furniture,Table,East,1332.41,122.8,5
+ORD0998,01-01-2025,Timothy Green,Keyboard,Technology,Keyboard,North,1337.83,265.25,6
+ORD0186,26-12-2024,Tyler Johnson,Table,Furniture,Table,South,1339.41,356.58,6
+ORD0109,03-01-2025,Sandra Burton,Laptop,Technology,Laptop,South,1339.88,323.52,9
+ORD0050,04-06-2024,Jason Chambers,Desk,Furniture,Desk,South,1344.92,238.02,8
+ORD0425,11-06-2024,Christopher Davis,Mouse,Technology,Mouse,West,1349.11,244.9,2
+ORD0546,24-03-2024,David Williams,Paper,Office Supplies,Paper,North,1350.61,319.81,5
+ORD0747,12-09-2024,Carla Watkins,Cabinet,Furniture,Cabinet,South,1352.82,294.82,8
+ORD0693,01-05-2024,Arthur Warren,Pen,Office Supplies,Pen,North,1353.27,402.16,10
+ORD0950,23-02-2024,Robin Smith,Bookshelf,Furniture,Bookshelf,South,1353.52,239.64,9
+ORD0509,10-05-2024,Frances Woodard,Laptop,Technology,Laptop,South,1355.18,251.35,10
+ORD0614,06-09-2024,Carol Swanson,Monitor,Technology,Monitor,North,1355.28,356.24,7
+ORD0834,01-12-2024,Michael Taylor,Desk,Furniture,Desk,West,1357.33,359.83,1
+ORD0594,29-01-2025,Chloe Myers,Marker,Office Supplies,Marker,South,1357.38,283.73,3
+ORD0659,27-12-2024,Melinda Dixon,Keyboard,Technology,Keyboard,East,1358.54,335.85,7
+ORD0323,28-03-2025,Elizabeth Walker,Paper,Office Supplies,Paper,South,1359.34,224.98,4
+ORD0539,10-01-2025,Jeffery Leach,Paper,Office Supplies,Paper,West,1359.69,280.99,1
+ORD0177,16-02-2025,Matthew Stevens,Marker,Office Supplies,Marker,West,1360.65,163.54,8
+ORD0376,09-06-2024,Samantha Hernandez,Notebook,Office Supplies,Notebook,West,1361.62,385.23,3
+ORD0344,21-02-2025,Tyrone Barnes,Marker,Office Supplies,Marker,North,1363.61,320.85,2
+ORD0578,03-03-2025,William Schaefer,Printer,Technology,Printer,West,1364.04,329.8,10
+ORD0304,19-06-2024,Paul Stevenson,Table,Furniture,Table,South,1365.15,241.66,10
+ORD0955,22-10-2024,Christine Cooper,Monitor,Technology,Monitor,West,1365.74,360.61,7
+ORD0779,18-03-2024,Amanda Jordan,Chair,Furniture,Chair,North,1367.85,114.71,2
+ORD0766,07-05-2024,Carol Smith DDS,Monitor,Technology,Monitor,North,1372,357.67,4
+ORD0742,17-01-2025,Melvin Sparks,Notebook,Office Supplies,Notebook,West,1373.35,353.62,1
+ORD0843,22-07-2024,Brandon Lee,Laptop,Technology,Laptop,South,1373.39,283.1,7
+ORD0859,24-11-2024,Travis Roman,Bookshelf,Furniture,Bookshelf,West,1373.94,215.9,7
+ORD0510,22-09-2024,Ronnie Delacruz,Keyboard,Technology,Keyboard,West,1378.07,101.12,7
+ORD0279,14-04-2024,Catherine Berry,Laptop,Technology,Laptop,North,1380.25,106.6,1
+ORD0711,02-08-2024,Michael Carroll,Cabinet,Furniture,Cabinet,North,1381.62,363.78,4
+ORD0898,11-03-2024,Kristin Nelson,Printer,Technology,Printer,West,1384.44,312.5,7
+ORD0968,15-05-2024,Alexis Camacho,Mouse,Technology,Mouse,West,1386.76,320.95,4
+ORD0180,13-04-2025,Angela Malone MD,Paper,Office Supplies,Paper,East,1386.89,239.51,4
+ORD0915,05-04-2025,Dawn Johnson,Table,Furniture,Table,South,1387.05,358.78,8
+ORD0480,25-03-2024,Dr. Troy White,Marker,Office Supplies,Marker,West,1388.22,111.17,4
+ORD0128,15-05-2024,Kevin Mata,Marker,Office Supplies,Marker,South,1388.26,411.48,7
+ORD0490,28-01-2024,David Ford,Monitor,Technology,Monitor,North,1393.27,201.14,2
+ORD0171,30-03-2024,Catherine Green,Stapler,Office Supplies,Stapler,West,1394.81,118.14,10
+ORD0847,15-05-2025,Alexandra Porter,Keyboard,Technology,Keyboard,North,1397.79,231.77,10
+ORD0818,25-12-2024,Matthew Montes,Pen,Office Supplies,Pen,South,1398.35,227.38,8
+ORD0068,16-10-2024,Julie Davis,Cabinet,Furniture,Cabinet,West,1403.07,74.02,2
+ORD0370,11-05-2024,Taylor Nichols,Pen,Office Supplies,Pen,West,1404.82,344.88,4
+ORD0549,10-04-2024,Michael Fisher,Notebook,Office Supplies,Notebook,North,1404.9,253.6,8
+ORD0583,12-10-2024,Trevor Smith,Marker,Office Supplies,Marker,East,1406.07,403.83,2
+ORD0548,13-01-2025,Jeffrey Tran,Cabinet,Furniture,Cabinet,South,1408.82,340.52,1
+ORD0910,14-03-2024,Jessica Shelton,Printer,Technology,Printer,West,1412.06,73.65,5
+ORD0676,26-06-2024,Thomas Parker,Mouse,Technology,Mouse,West,1416.04,128.21,9
+ORD0788,25-04-2025,Frank Smith,Printer,Technology,Printer,South,1423.5,276.27,5
+ORD0355,22-11-2024,Curtis Snyder,Mouse,Technology,Mouse,East,1423.67,336.59,6
+ORD0921,18-08-2024,Tiffany Shannon,Laptop,Technology,Laptop,West,1424.15,271.64,6
+ORD0839,12-07-2024,Michael Ortiz,Marker,Office Supplies,Marker,East,1424.84,397,1
+ORD0138,08-04-2025,Susan Davis,Table,Furniture,Table,North,1427.06,170.96,9
+ORD0191,30-11-2024,Terry Gutierrez,Table,Furniture,Table,East,1431.57,360.72,2
+ORD0999,16-03-2024,Connie Higgins,Monitor,Technology,Monitor,East,1432.53,358.98,3
+ORD0850,09-04-2024,Jon Pham,Keyboard,Technology,Keyboard,South,1433.14,405.22,5
+ORD0630,27-03-2025,Paula Adams,Keyboard,Technology,Keyboard,South,1437.11,123.87,5
+ORD0268,11-03-2024,Philip Morris,Pen,Office Supplies,Pen,East,1437.24,385.3,10
+ORD0923,09-10-2024,Bryan Smith,Chair,Furniture,Chair,North,1441.28,384.42,7
+ORD0907,30-11-2024,Amy Patterson,Table,Furniture,Table,West,1442.06,319.41,1
+ORD0135,19-03-2024,Olivia Walker DVM,Paper,Office Supplies,Paper,North,1443,180.57,4
+ORD0826,15-10-2024,Justin Pierce,Desk,Furniture,Desk,North,1444.02,431.6,7
+ORD0385,29-08-2024,Pamela Evans,Desk,Furniture,Desk,East,1445.45,427.58,5
+ORD0846,20-02-2025,Dennis Tucker,Paper,Office Supplies,Paper,North,1445.8,426.52,5
+ORD0531,07-05-2025,Elizabeth Gonzalez,Bookshelf,Furniture,Bookshelf,West,1450.02,279.67,2
+ORD0931,25-04-2024,Jason Stewart,Paper,Office Supplies,Paper,North,1452.18,283.1,7
+ORD0922,23-05-2024,Dana Perez,Table,Furniture,Table,South,1455.32,388.36,10
+ORD0028,17-02-2025,Patrick Klein,Cabinet,Furniture,Cabinet,West,1456.23,267.97,10
+ORD0807,25-08-2024,Norma Hayes,Chair,Furniture,Chair,North,1459.51,364.06,2
+ORD0388,12-01-2024,Melissa Perry,Bookshelf,Furniture,Bookshelf,East,1459.99,231.22,4
+ORD0448,11-12-2024,Charles Love,Laptop,Technology,Laptop,West,1460.87,193.83,5
+ORD0183,13-02-2025,Dr. Michael Warren PhD,Paper,Office Supplies,Paper,West,1464.49,365.68,1
+ORD0293,09-06-2024,Jason Santos,Paper,Office Supplies,Paper,West,1464.63,164.76,9
+ORD0791,10-10-2024,Erin Campbell,Bookshelf,Furniture,Bookshelf,South,1472.54,292.42,6
+ORD0178,18-02-2024,William Schaefer,Keyboard,Technology,Keyboard,West,1473.17,386.77,3
+ORD0225,18-01-2025,Sara Cox,Cabinet,Furniture,Cabinet,North,1473.38,82.49,7
+ORD0837,03-12-2024,Eddie Weaver,Marker,Office Supplies,Marker,South,1476.05,123.76,4
+ORD0403,13-08-2024,Timothy Chavez,Chair,Furniture,Chair,East,1476.59,209.88,5
+ORD0365,18-07-2024,Anna Ramsey,Mouse,Technology,Mouse,North,1478.76,218.69,4
+ORD0984,25-03-2024,Kyle Trujillo,Monitor,Technology,Monitor,North,1481.99,416.31,9
+ORD0584,31-03-2025,Lisa Bartlett,Cabinet,Furniture,Cabinet,North,1485.72,106.56,7
+ORD0046,19-01-2024,Catherine Dawson,Cabinet,Furniture,Cabinet,North,1491.51,321.04,6
+ORD0479,05-07-2024,Samuel Ford,Printer,Technology,Printer,South,1491.7,202.83,7
+ORD0704,23-10-2024,Jill Gilbert,Chair,Furniture,Chair,South,1491.7,393.54,1
+ORD0830,17-07-2024,Sonya Mcmillan,Mouse,Technology,Mouse,West,1494.91,385.2,2
+ORD0993,25-08-2024,Lori Sanchez,Paper,Office Supplies,Paper,North,1496.57,255.99,6
+ORD0881,25-12-2024,Rebecca Anderson,Laptop,Technology,Laptop,South,1499.41,201.02,9
+ORD0040,12-05-2024,Allen Anderson,Table,Furniture,Table,West,1500.16,126.6,2
+ORD0098,04-03-2024,Stanley Bell,Notebook,Office Supplies,Notebook,South,1502.14,176.71,5
+ORD0457,18-07-2024,Brian Byrd,Table,Furniture,Table,East,1504.77,396.68,2
+ORD0789,23-02-2024,Keith Byrd,Laptop,Technology,Laptop,South,1505.11,447.26,10
+ORD0314,13-03-2025,Hailey Simmons,Paper,Office Supplies,Paper,East,1506.28,271.15,4
+ORD0298,20-02-2025,Julie Hodges,Printer,Technology,Printer,West,1519.78,454.2,2
+ORD0451,23-08-2024,Sarah Maxwell,Table,Furniture,Table,West,1519.93,290.32,7
+ORD0515,28-05-2024,Elizabeth Stanley,Notebook,Office Supplies,Notebook,North,1522.1,91.71,9
+ORD0069,11-04-2025,Adam Hall,Marker,Office Supplies,Marker,East,1522.48,378.55,2
+ORD0307,04-02-2024,Caitlin Brown,Pen,Office Supplies,Pen,East,1524.2,380.14,6
+ORD0175,17-01-2025,Frederick Adams,Monitor,Technology,Monitor,North,1524.65,115.73,7
+ORD0895,27-11-2024,Mark Glover DVM,Marker,Office Supplies,Marker,South,1526.6,429.59,7
+ORD0675,06-09-2024,Amanda Vargas,Monitor,Technology,Monitor,East,1527.68,324.44,3
+ORD0258,11-01-2024,Mary Macdonald,Notebook,Office Supplies,Notebook,South,1528.14,356.28,1
+ORD0300,14-05-2024,Angel Davis,Bookshelf,Furniture,Bookshelf,East,1528.74,118.32,2
+ORD0100,19-05-2024,Michael Johnson,Bookshelf,Furniture,Bookshelf,North,1531.3,194.13,6
+ORD0099,31-07-2024,Carol Anderson,Pen,Office Supplies,Pen,West,1531.51,140.3,3
+ORD0174,23-12-2024,James Brown,Bookshelf,Furniture,Bookshelf,South,1532.59,337.75,6
+ORD0817,03-02-2025,Kevin Tyler,Bookshelf,Furniture,Bookshelf,East,1536.54,256.97,4
+ORD0282,02-07-2024,Heather Bailey,Cabinet,Furniture,Cabinet,East,1537.22,164.4,6
+ORD0525,14-02-2024,Breanna Robinson,Monitor,Technology,Monitor,South,1540.24,255.69,2
+ORD0075,10-05-2024,Briana Jones,Table,Furniture,Table,East,1541.76,399.04,7
+ORD0393,06-09-2024,Joshua Singh,Monitor,Technology,Monitor,North,1542.78,140.31,7
+ORD0419,15-02-2025,Benjamin Humphrey,Mouse,Technology,Mouse,South,1546.36,207.09,7
+ORD0551,30-03-2024,Allison Horton,Laptop,Technology,Laptop,West,1548.59,427.69,4
+ORD0577,14-01-2025,Patrick Baldwin,Desk,Furniture,Desk,South,1550.07,148.27,5
+ORD0125,27-06-2024,Dustin Martin,Marker,Office Supplies,Marker,South,1551.21,90.01,3
+ORD0636,22-03-2025,Ashlee Morris,Keyboard,Technology,Keyboard,East,1551.38,386.44,5
+ORD0604,04-07-2024,Kelly Scott,Laptop,Technology,Laptop,East,1554.47,253.25,8
+ORD0469,20-07-2024,Jeffery Rodriguez,Printer,Technology,Printer,South,1554.9,258.65,1
+ORD0465,26-01-2025,Michael Nelson,Bookshelf,Furniture,Bookshelf,North,1558.67,126.61,8
+ORD0738,07-07-2024,Jennifer Thomas,Paper,Office Supplies,Paper,North,1559.02,270.24,4
+ORD0076,30-03-2025,Amber Jordan,Printer,Technology,Printer,East,1560.84,354.57,2
+ORD0101,30-11-2024,Willie Hansen,Table,Furniture,Table,South,1561.98,269,7
+ORD0593,26-03-2024,Jason Dunlap,Keyboard,Technology,Keyboard,East,1567.52,112.08,6
+ORD0161,25-06-2024,Laura Taylor,Stapler,Office Supplies,Stapler,West,1570.89,113.84,6
+ORD0772,24-03-2025,Tiffany Roberts,Table,Furniture,Table,West,1579.19,88.98,9
+ORD0483,04-04-2024,Karen Scott MD,Marker,Office Supplies,Marker,North,1580.12,285.6,5
+ORD0227,02-08-2024,Paul Hancock,Printer,Technology,Printer,South,1581.68,155.46,7
+ORD0810,21-09-2024,Matthew Quinn,Table,Furniture,Table,North,1582.6,415.21,5
+ORD0962,07-01-2025,Alexander Chase,Mouse,Technology,Mouse,North,1583.07,124.39,6
+ORD0043,05-11-2024,Stacey King,Pen,Office Supplies,Pen,East,1586.8,342.64,1
+ORD0310,28-03-2025,Angela Keith,Mouse,Technology,Mouse,South,1587.99,229.09,8
+ORD0456,19-02-2025,Douglas Wilkinson,Stapler,Office Supplies,Stapler,West,1589.48,353.94,3
+ORD0383,25-03-2024,William Brown,Pen,Office Supplies,Pen,West,1590.16,353.85,3
+ORD0514,18-01-2025,Kristin Doyle,Notebook,Office Supplies,Notebook,South,1591.81,382.32,1
+ORD0692,30-04-2025,Melissa Gonzales,Bookshelf,Furniture,Bookshelf,West,1595.01,297.74,6
+ORD0207,13-02-2024,Mark Allen,Monitor,Technology,Monitor,West,1597.33,470.4,9
+ORD0771,17-07-2024,Laurie Brown,Notebook,Office Supplies,Notebook,North,1598.2,301.63,2
+ORD0924,08-01-2024,Jeffrey Villa,Table,Furniture,Table,East,1599.39,98,4
+ORD0202,08-05-2024,Edward Taylor,Laptop,Technology,Laptop,South,1601.32,346.5,8
+ORD0647,17-04-2025,Barbara Meyer,Monitor,Technology,Monitor,South,1601.38,113.17,7
+ORD0760,06-05-2024,Ruben Davidson,Table,Furniture,Table,West,1606.03,428.82,4
+ORD0423,25-02-2024,Natalie Sims,Stapler,Office Supplies,Stapler,West,1608.3,234.19,9
+ORD0829,23-02-2025,Amanda Allen,Bookshelf,Furniture,Bookshelf,East,1608.65,449.66,1
+ORD0124,14-03-2024,Deborah Pratt,Cabinet,Furniture,Cabinet,South,1608.94,134.45,3
+ORD0668,03-01-2024,Lisa Kelley,Monitor,Technology,Monitor,North,1610.42,407.77,3
+ORD0322,25-04-2024,Fernando Blackwell,Cabinet,Furniture,Cabinet,West,1611.86,250.62,10
+ORD0156,07-02-2024,Kathleen Miller,Notebook,Office Supplies,Notebook,East,1614.46,421.73,8
+ORD0357,15-01-2024,Melissa Jones,Table,Furniture,Table,West,1615.72,349.91,6
+ORD0661,09-01-2025,Kathy Shepard,Chair,Furniture,Chair,East,1616.38,424.8,10
+ORD0866,08-05-2024,Michael Hensley,Paper,Office Supplies,Paper,North,1618.26,117.6,2
+ORD0182,11-09-2024,Reginald Hernandez,Marker,Office Supplies,Marker,East,1619.19,101.42,4
+ORD0108,04-03-2024,Thomas Wright,Printer,Technology,Printer,West,1619.55,312.94,7
+ORD0029,23-01-2024,Donna Reed,Laptop,Technology,Laptop,North,1625.69,231.33,6
+ORD0235,16-07-2024,Teresa Moreno,Bookshelf,Furniture,Bookshelf,South,1626.46,186,3
+ORD0667,24-05-2024,William Woodward,Bookshelf,Furniture,Bookshelf,East,1627.17,171.69,5
+ORD0067,15-04-2024,Kyle Martinez,Monitor,Technology,Monitor,West,1627.7,283.46,7
+ORD0445,10-03-2025,Christopher Cruz,Pen,Office Supplies,Pen,North,1629.51,384.32,8
+ORD0690,03-03-2024,Christine Harris,Paper,Office Supplies,Paper,East,1629.97,107.44,8
+ORD0080,29-10-2024,Laura Hines,Mouse,Technology,Mouse,North,1632.12,456.36,9
+ORD0888,17-02-2025,Shannon Day,Table,Furniture,Table,West,1634.6,296.65,3
+ORD0060,18-06-2024,Catherine Perez,Chair,Furniture,Chair,East,1635.2,106.26,2
+ORD0959,12-02-2025,Latasha Brown,Paper,Office Supplies,Paper,West,1638.94,351.25,7
+ORD0334,04-01-2024,Daniel Turner,Printer,Technology,Printer,North,1639.17,272.57,5
+ORD0007,10-09-2024,Tyler Hunter,Notebook,Office Supplies,Notebook,West,1642.64,454.88,4
+ORD0093,14-02-2024,Tina Spencer,Printer,Technology,Printer,East,1644.97,388.2,2
+ORD0169,06-12-2024,Stephen Shepherd,Chair,Furniture,Chair,West,1645.06,286.16,6
+ORD0450,15-10-2024,Tyler Buchanan,Marker,Office Supplies,Marker,East,1648.19,207.96,2
+ORD0650,25-05-2024,Sarah Willis,Paper,Office Supplies,Paper,West,1648.61,95.05,7
+ORD0454,10-11-2024,Kelsey Anthony,Table,Furniture,Table,North,1650.53,172.77,5
+ORD0045,05-09-2024,Christina Coleman,Bookshelf,Furniture,Bookshelf,North,1653.17,433.88,3
+ORD0725,26-02-2024,Brian Henderson,Chair,Furniture,Chair,South,1660.1,251.08,6
+ORD0143,08-03-2025,Michael Hartman,Printer,Technology,Printer,South,1661.75,312.9,1
+ORD0379,31-10-2024,Albert Evans,Bookshelf,Furniture,Bookshelf,South,1662.26,129.1,7
+ORD0777,17-09-2024,Anthony Jimenez,Pen,Office Supplies,Pen,South,1663.62,212.51,4
+ORD0378,03-08-2024,Barry Thomas,Notebook,Office Supplies,Notebook,East,1666.42,409.94,6
+ORD0586,06-12-2024,David Dean,Stapler,Office Supplies,Stapler,West,1667.3,196.71,3
+ORD0159,07-11-2024,Patrick Hart,Chair,Furniture,Chair,North,1669.15,125.77,5
+ORD0822,21-08-2024,Ariel Ramirez DVM,Mouse,Technology,Mouse,North,1670.19,454.04,6
+ORD0150,05-02-2025,Donna Hurst,Desk,Furniture,Desk,South,1671.74,337.37,1
+ORD0763,13-05-2025,Steven Kelly,Monitor,Technology,Monitor,West,1673.25,129.32,7
+ORD0695,28-03-2024,Erica Hudson,Table,Furniture,Table,North,1673.37,483,9
+ORD0369,26-08-2024,Brenda Payne,Chair,Furniture,Chair,North,1674.08,361.75,7
+ORD0726,15-04-2025,Danielle Holland,Bookshelf,Furniture,Bookshelf,South,1681.18,87.49,3
+ORD0836,06-12-2024,Stephanie Ray,Cabinet,Furniture,Cabinet,South,1681.62,139.76,10
+ORD0052,22-01-2025,Brenda Nelson,Table,Furniture,Table,East,1686.39,316.01,5
+ORD0395,06-01-2024,Stephen Gould,Notebook,Office Supplies,Notebook,South,1687.15,97.86,10
+ORD0176,08-05-2025,Thomas Mccormick,Cabinet,Furniture,Cabinet,South,1691.42,179.29,10
+ORD0299,13-01-2025,Bryan Miller,Bookshelf,Furniture,Bookshelf,South,1691.77,110.65,10
+ORD0179,12-04-2024,Victor Smith,Cabinet,Furniture,Cabinet,South,1692,173.02,5
+ORD0373,19-04-2024,Stephanie Ward,Chair,Furniture,Chair,North,1692.31,258.77,5
+ORD0366,19-10-2024,Julie Maldonado,Table,Furniture,Table,East,1692.45,383.3,3
+ORD0823,07-02-2025,Nathan Thompson,Notebook,Office Supplies,Notebook,North,1699.62,132.1,2
+ORD0727,03-09-2024,Tamara Clarke,Bookshelf,Furniture,Bookshelf,East,1704.49,99.38,3
+ORD0066,14-01-2025,Carrie Bennett,Keyboard,Technology,Keyboard,South,1708.49,319.05,3
+ORD0563,11-12-2024,Andrew Burns,Mouse,Technology,Mouse,North,1708.69,259.55,2
+ORD0677,18-04-2025,Andrew Smith,Stapler,Office Supplies,Stapler,North,1709.18,413.89,3
+ORD0670,16-02-2024,Dr. Scott Stevens,Bookshelf,Furniture,Bookshelf,East,1710.45,476.69,10
+ORD0136,16-12-2024,Kristen Fox,Bookshelf,Furniture,Bookshelf,East,1711.12,333.4,3
+ORD0784,10-03-2025,Henry Daugherty,Mouse,Technology,Mouse,North,1714.58,186.29,3
+ORD0065,13-03-2024,Julie Ross,Desk,Furniture,Desk,East,1714.73,302.07,7
+ORD0796,29-01-2025,Samuel Stewart,Bookshelf,Furniture,Bookshelf,East,1715.95,277.06,3
+ORD0990,30-09-2024,Ricardo Lee II,Pen,Office Supplies,Pen,West,1716.56,282.37,1
+ORD0862,29-08-2024,Christian Gilmore,Notebook,Office Supplies,Notebook,West,1717.37,365.15,9
+ORD0527,08-02-2025,Russell Foster,Printer,Technology,Printer,East,1719.58,186.08,8
+ORD0792,03-02-2025,Matthew Hutchinson,Bookshelf,Furniture,Bookshelf,West,1721.71,224.95,4
+ORD0949,13-05-2025,Robert Martin,Monitor,Technology,Monitor,South,1724.61,304.04,5
+ORD0464,26-07-2024,Bryan Stewart,Marker,Office Supplies,Marker,East,1725.16,486.34,2
+ORD0507,21-01-2025,Kristen Bean,Monitor,Technology,Monitor,South,1725.97,185.81,5
+ORD0096,14-03-2024,Christopher Kennedy,Stapler,Office Supplies,Stapler,North,1726.15,203.56,9
+ORD0805,27-09-2024,Taylor Martin,Bookshelf,Furniture,Bookshelf,West,1726.9,156.03,9
+ORD0111,29-03-2024,Joseph Collins,Desk,Furniture,Desk,West,1728.47,229.56,3
+ORD0095,16-03-2025,Laura Pitts,Keyboard,Technology,Keyboard,West,1729.6,220.22,1
+ORD0714,09-12-2024,Courtney Bennett,Laptop,Technology,Laptop,North,1731.21,320.6,4
+ORD0943,14-10-2024,Kyle Obrien,Cabinet,Furniture,Cabinet,East,1731.57,314.04,6
+ORD0013,11-01-2025,Jared Brown,Table,Furniture,Table,East,1732.7,500.83,10
+ORD0088,01-04-2024,Edward Floyd,Stapler,Office Supplies,Stapler,West,1736.7,136.35,5
+ORD0819,10-02-2025,Jonathan Roberts,Keyboard,Technology,Keyboard,West,1737.41,323.31,10
+ORD0489,07-05-2025,Samuel Grimes,Mouse,Technology,Mouse,South,1739.96,228.12,7
+ORD0740,22-11-2024,Carrie Walker MD,Laptop,Technology,Laptop,East,1740.32,294.26,8
+ORD0644,21-02-2025,Sarah Floyd,Chair,Furniture,Chair,North,1740.97,186.06,6
+ORD0731,21-06-2024,Jason Jensen,Chair,Furniture,Chair,North,1745.28,145.65,8
+ORD0421,05-03-2025,Charlotte Little MD,Cabinet,Furniture,Cabinet,West,1755.36,129.74,4
+ORD0633,12-02-2025,Caroline Watkins,Chair,Furniture,Chair,East,1755.42,419.15,1
+ORD0271,10-06-2024,Joel Baker,Table,Furniture,Table,West,1756.27,465.02,3
+ORD0658,08-12-2024,Monica Mitchell,Desk,Furniture,Desk,West,1759.31,504.51,2
+ORD0897,13-01-2025,Michelle Walsh,Pen,Office Supplies,Pen,East,1762.96,414.03,8
+ORD0729,04-06-2024,John Johnson,Chair,Furniture,Chair,South,1768.01,94.25,3
+ORD0079,03-02-2025,Diane Chavez,Stapler,Office Supplies,Stapler,South,1769.99,395.65,7
+ORD0401,17-10-2024,Julie Meza,Keyboard,Technology,Keyboard,East,1770.12,191.86,3
+ORD0934,23-02-2025,Peter Knapp,Mouse,Technology,Mouse,East,1773.23,257.26,6
+ORD0408,22-01-2024,Maria Foster,Mouse,Technology,Mouse,East,1776.88,249.18,7
+ORD0035,10-10-2024,David Hatfield,Pen,Office Supplies,Pen,West,1776.91,362.13,8
+ORD0596,15-01-2025,Nathan Moore,Mouse,Technology,Mouse,North,1777.25,183.11,5
+ORD0328,11-01-2024,Christopher Nguyen,Stapler,Office Supplies,Stapler,North,1778.59,134.49,4
+ORD0717,26-01-2024,Jason Waters,Cabinet,Furniture,Cabinet,West,1782.58,522.33,6
+ORD0696,29-04-2024,Michael Booth,Notebook,Office Supplies,Notebook,West,1783.37,467.64,2
+ORD0665,15-02-2024,Nicholas Edwards,Marker,Office Supplies,Marker,West,1785.26,351.16,5
+ORD0352,19-02-2025,Maria Mejia,Cabinet,Furniture,Cabinet,West,1786.77,305.9,4
+ORD0257,25-02-2024,Jason Myers,Marker,Office Supplies,Marker,North,1791.74,469.04,9
+ORD0867,01-01-2025,Martin Sanders,Cabinet,Furniture,Cabinet,East,1794.29,456.36,8
+ORD0092,17-09-2024,Michael Howell,Notebook,Office Supplies,Notebook,West,1795.78,476.25,8
+ORD0513,26-02-2024,Jill Taylor,Mouse,Technology,Mouse,West,1796.44,315.41,1
+ORD0484,06-06-2024,Jacob Hensley,Keyboard,Technology,Keyboard,East,1796.78,227.94,2
+ORD0851,07-05-2025,Edward Carter,Monitor,Technology,Monitor,North,1797.43,449.47,10
+ORD0417,09-05-2024,Jonathan Castro,Bookshelf,Furniture,Bookshelf,East,1798.8,444.35,5
+ORD0237,06-03-2024,William Fitzgerald,Pen,Office Supplies,Pen,South,1799.29,260.35,9
+ORD0755,08-08-2024,Alejandro Simmons,Mouse,Technology,Mouse,East,1799.64,164.3,10
+ORD0324,03-10-2024,Michaela Castillo,Pen,Office Supplies,Pen,East,1799.89,258.76,9
+ORD0894,02-05-2024,Donna White,Monitor,Technology,Monitor,South,1799.91,409.65,2
+ORD0440,13-05-2025,Alexander Garner,Desk,Furniture,Desk,South,1801.08,467.47,8
+ORD0587,15-08-2024,Kenneth Romero,Notebook,Office Supplies,Notebook,West,1802.31,538.85,4
+ORD0799,18-02-2024,James Wolf,Monitor,Technology,Monitor,East,1803.23,477.41,1
+ORD0331,14-01-2024,Brian Grant,Desk,Furniture,Desk,East,1803.43,266.87,3
+ORD0961,21-09-2024,Keith Brown DDS,Bookshelf,Furniture,Bookshelf,North,1804.28,463.11,6
+ORD0890,07-06-2024,Evelyn Taylor,Desk,Furniture,Desk,East,1805.52,526.82,1
+ORD0540,11-12-2024,Lauren Wells,Keyboard,Technology,Keyboard,North,1806.76,144.17,9
+ORD0953,25-09-2024,Zachary Carter,Marker,Office Supplies,Marker,East,1807.49,126.95,9
+ORD0555,29-10-2024,Joseph Tyler,Cabinet,Furniture,Cabinet,South,1810.72,452.92,3
+ORD0319,31-05-2024,Rodney Brandt,Paper,Office Supplies,Paper,South,1811.26,429.2,1
+ORD0833,29-01-2024,Jeffrey Stanton,Laptop,Technology,Laptop,North,1811.77,194.71,9
+ORD0032,17-03-2025,Claire Wright,Chair,Furniture,Chair,East,1812.16,363.92,3
+ORD0965,23-12-2024,Monica Freeman,Pen,Office Supplies,Pen,North,1812.55,430.11,3
+ORD0524,19-02-2024,Morgan Mason,Printer,Technology,Printer,West,1813.26,412.48,8
+ORD0241,12-07-2024,Anthony Davila,Marker,Office Supplies,Marker,South,1815.29,522.8,3
+ORD0917,09-01-2025,Karen Stevenson,Printer,Technology,Printer,East,1817.26,474.73,6
+ORD0374,04-11-2024,Jason Graham,Mouse,Technology,Mouse,West,1819.57,314.25,1
+ORD0001,02-03-2025,Stephanie Garcia,Table,Furniture,Table,West,1834.8,211.24,6
+ORD0780,25-12-2024,Nancy Neal,Paper,Office Supplies,Paper,South,1835.25,133.73,3
+ORD0606,18-01-2024,Rhonda Riley,Desk,Furniture,Desk,South,1835.62,214.19,5
+ORD0074,30-04-2025,Vickie Cruz,Marker,Office Supplies,Marker,West,1836.79,314.2,1
+ORD0528,16-08-2024,Jonathan Harper,Marker,Office Supplies,Marker,North,1836.92,201.27,9
+ORD0878,04-03-2025,Brittany Fox,Stapler,Office Supplies,Stapler,East,1838.39,166.88,6
+ORD0405,13-06-2024,Olivia Brown,Stapler,Office Supplies,Stapler,West,1840.9,433.47,3
+ORD0765,07-02-2025,Christine Wu,Chair,Furniture,Chair,South,1841.58,305.68,2
+ORD0243,12-05-2024,Raymond Bradley,Keyboard,Technology,Keyboard,South,1844.7,248.85,9
+ORD0026,06-02-2024,Vanessa Green,Cabinet,Furniture,Cabinet,West,1846.69,300.92,8
+ORD0631,02-02-2024,Troy Phillips,Stapler,Office Supplies,Stapler,East,1846.85,343.48,1
+ORD0195,20-06-2024,Michael Davis,Printer,Technology,Printer,East,1846.93,201.3,10
+ORD0256,29-09-2024,David Carr,Pen,Office Supplies,Pen,East,1847.34,430.87,1
+ORD0870,07-01-2024,Lindsay Wilson,Monitor,Technology,Monitor,South,1848.53,537.59,6
+ORD0903,08-03-2024,Danielle Riley,Laptop,Technology,Laptop,North,1851.81,284.15,8
+ORD0192,21-04-2024,Michael Wong,Stapler,Office Supplies,Stapler,West,1854.29,550.36,1
+ORD0988,12-12-2024,Leah Joseph,Table,Furniture,Table,South,1857.88,511.23,10
+ORD0566,20-04-2025,Noah Cabrera,Notebook,Office Supplies,Notebook,North,1857.89,188.13,1
+ORD0628,22-08-2024,Susan Flynn,Printer,Technology,Printer,South,1864.83,187.12,6
+ORD0398,28-09-2024,Laurie Prince,Marker,Office Supplies,Marker,West,1865.34,486.82,4
+ORD0160,03-03-2024,Anne King,Notebook,Office Supplies,Notebook,West,1865.62,484.67,9
+ORD0292,12-05-2024,John Cook,Stapler,Office Supplies,Stapler,North,1866.72,550.84,10
+ORD0104,31-12-2024,William Frazier,Printer,Technology,Printer,East,1866.94,291.79,2
+ORD0141,14-01-2024,Luke Williams,Notebook,Office Supplies,Notebook,East,1867.23,283.75,9
+ORD0686,06-02-2025,Maria Miller,Notebook,Office Supplies,Notebook,East,1874.73,302.1,4
+ORD0313,16-06-2024,Adam Hobbs,Stapler,Office Supplies,Stapler,West,1879.54,245.11,10
+ORD0871,31-03-2025,Andrew Bush,Mouse,Technology,Mouse,West,1880.65,271.06,9
+ORD0433,05-12-2024,Spencer Gill,Paper,Office Supplies,Paper,East,1884.33,559.66,3
+ORD0406,12-01-2024,Jessica Melton,Table,Furniture,Table,West,1885.12,329.87,8
+ORD0295,10-07-2024,Karen Vang,Paper,Office Supplies,Paper,South,1885.71,220.11,3
+ORD0165,09-08-2024,Paul Hicks,Bookshelf,Furniture,Bookshelf,North,1887.38,179.92,5
+ORD0003,02-07-2024,Tina Ward,Pen,Office Supplies,Pen,East,1887.84,420.75,2
+ORD0558,30-11-2024,Brandon Smith,Printer,Technology,Printer,North,1888.65,277.08,7
+ORD0767,12-04-2025,Claudia Kelley,Notebook,Office Supplies,Notebook,West,1892.47,474.93,7
+ORD0278,25-06-2024,Ralph Carter,Desk,Furniture,Desk,South,1894.92,104.86,3
+ORD0418,11-03-2025,Natalie Watkins,Laptop,Technology,Laptop,North,1895.11,191.77,8
+ORD0475,10-11-2024,Jerry Pierce,Table,Furniture,Table,South,1896.49,212.66,8
+ORD0835,17-02-2024,Ann Lee,Chair,Furniture,Chair,South,1897.07,346.89,5
+ORD0493,14-10-2024,Brianna Evans,Pen,Office Supplies,Pen,East,1900.78,442.67,2
+ORD0312,27-01-2024,Hector Gardner DDS,Pen,Office Supplies,Pen,East,1905.92,215.2,10
+ORD0906,30-10-2024,Roy Turner,Chair,Furniture,Chair,South,1910.43,232.62,9
+ORD0571,18-02-2024,Nichole Gonzalez,Chair,Furniture,Chair,North,1910.73,430.66,6
+ORD0190,11-10-2024,Brandi Ward,Marker,Office Supplies,Marker,South,1911.5,457.98,8
+ORD0164,26-02-2025,Austin Ibarra,Paper,Office Supplies,Paper,North,1915.69,367.19,3
+ORD0218,03-02-2025,Jason Cobb,Paper,Office Supplies,Paper,South,1919.01,568.77,3
+ORD0615,07-03-2025,Jacqueline Knox,Printer,Technology,Printer,East,1920.01,166.68,2
+ORD0466,14-08-2024,Keith Moore,Printer,Technology,Printer,North,1921.08,476.44,4
+ORD0009,10-04-2024,John Beasley,Chair,Furniture,Chair,North,1925.77,252.24,5
+ORD0097,05-05-2024,Timothy Wright,Paper,Office Supplies,Paper,North,1927.65,459.32,7
+ORD0764,23-10-2024,Christine Yoder,Desk,Furniture,Desk,East,1929.21,363.34,3
+ORD0736,22-02-2025,Jennifer Curry,Desk,Furniture,Desk,East,1930.46,170.26,1
+ORD0844,05-03-2024,Sabrina Anderson,Paper,Office Supplies,Paper,North,1930.64,537.9,8
+ORD0619,11-03-2024,Michael Marshall,Notebook,Office Supplies,Notebook,West,1931.12,311.33,4
+ORD0276,18-07-2024,John Henry,Printer,Technology,Printer,South,1932.68,153.14,1
+ORD0598,03-02-2024,David Reese,Chair,Furniture,Chair,South,1934.55,238.22,5
+ORD0291,02-10-2024,Donald Hamilton,Bookshelf,Furniture,Bookshelf,West,1934.57,362.18,2
+ORD0648,06-01-2025,Michaela Anderson,Notebook,Office Supplies,Notebook,South,1934.58,557.13,2
+ORD0641,03-01-2025,Troy Quinn,Laptop,Technology,Laptop,West,1935.34,411.41,2
+ORD0229,19-06-2024,Adam Ali,Monitor,Technology,Monitor,South,1937.81,194.41,6
+ORD0842,01-07-2024,Jennifer Sanchez,Paper,Office Supplies,Paper,North,1938.95,328.87,7
+ORD0492,14-06-2024,Nicole Obrien,Chair,Furniture,Chair,West,1940.42,140.85,3
+ORD0329,29-08-2024,Ashley Davis,Laptop,Technology,Laptop,South,1941.96,571.34,9
+ORD0599,22-10-2024,Erin Hawkins,Cabinet,Furniture,Cabinet,South,1943.44,360.89,3
+ORD0899,21-10-2024,Tyler Mason,Notebook,Office Supplies,Notebook,South,1946.02,198.11,8
+ORD0654,25-04-2025,Daniel Romero,Chair,Furniture,Chair,North,1946.26,521.08,8
+ORD0853,02-02-2024,Cameron Butler,Laptop,Technology,Laptop,West,1948.16,201.41,5
+ORD0976,19-11-2024,Todd Morris,Printer,Technology,Printer,West,1948.28,302,7
+ORD0504,07-05-2024,Heidi Rodriguez,Cabinet,Furniture,Cabinet,North,1953.3,292.08,6
+ORD0503,03-01-2025,Donna Peters,Paper,Office Supplies,Paper,West,1956.14,392.75,6
+ORD0620,21-12-2024,Courtney Allen,Cabinet,Furniture,Cabinet,East,1956.98,252.71,5
+ORD0436,03-02-2025,Angela Francis,Printer,Technology,Printer,East,1959.16,290.99,9
+ORD0285,19-06-2024,Christine Ryan,Pen,Office Supplies,Pen,South,1959.4,337.12,3
+ORD0140,17-12-2024,Samuel Osborne,Keyboard,Technology,Keyboard,East,1963.22,343.44,2
+ORD0869,16-03-2025,Benjamin Lowe,Monitor,Technology,Monitor,North,1965.37,331.1,8
+ORD0452,20-01-2025,Gina Ross,Printer,Technology,Printer,East,1966.66,337.99,5
+ORD0025,24-04-2025,Thomas Johnson,Keyboard,Technology,Keyboard,North,1967.82,413.65,7
+ORD0019,23-12-2024,Lauren Woods,Chair,Furniture,Chair,East,1968.8,421.64,9
+ORD0330,25-06-2024,David Knight,Table,Furniture,Table,West,1972.32,244.63,9
+ORD0838,03-04-2025,Raymond Greene,Table,Furniture,Table,South,1973.73,266.17,1
+ORD0242,15-11-2024,Lori Wong,Paper,Office Supplies,Paper,East,1974.25,500.84,6
+ORD0552,08-02-2025,Joseph Castillo,Table,Furniture,Table,West,1977.26,390.24,5
+ORD0715,21-03-2024,Joseph Webb,Pen,Office Supplies,Pen,West,1977.56,521.8,10
+ORD0592,28-02-2024,Robert Avila,Stapler,Office Supplies,Stapler,West,1978.29,318.04,5
+ORD0287,14-11-2024,Eric Wilkins,Stapler,Office Supplies,Stapler,North,1979.1,443.16,9
+ORD0973,26-01-2024,Kyle Estrada,Bookshelf,Furniture,Bookshelf,West,1984.27,492.66,1
+ORD0724,30-09-2024,Stephen King,Marker,Office Supplies,Marker,West,1985.6,337.9,8
+ORD0879,13-01-2024,Amber Henson,Cabinet,Furniture,Cabinet,South,1985.83,401.45,2
+ORD0611,31-10-2024,Jeffery Galloway,Stapler,Office Supplies,Stapler,East,1986.04,136.18,4
+ORD0896,01-01-2024,Michael Cook,Notebook,Office Supplies,Notebook,West,1989.99,419.23,6
+ORD0053,25-07-2024,Cody Gentry,Cabinet,Furniture,Cabinet,North,1990.12,149.06,6
+ORD0705,25-03-2025,Justin Lyons,Chair,Furniture,Chair,East,1993.76,204.95,10
+ORD0432,30-08-2024,Julie York,Pen,Office Supplies,Pen,West,1994.31,370.66,1
+ORD0814,20-01-2025,Brianna Villarreal,Marker,Office Supplies,Marker,North,1995.76,320.03,2
+ORD0131,30-01-2024,Jake Baldwin,Table,Furniture,Table,East,1995.95,596.47,7
+ORD0909,20-08-2024,Jessica Spencer,Bookshelf,Furniture,Bookshelf,North,1995.98,450.49,5
+ORD0133,01-09-2024,Megan Alvarez,Marker,Office Supplies,Marker,South,1997.39,510.27,1
+ORD0320,07-04-2025,Angela Avery,Printer,Technology,Printer,North,1998.63,191.16,8
+ORD0517,26-10-2024,Tara Morris,Pen,Office Supplies,Pen,North,1999.8,341.58,3
+ORD0315,23-01-2024,Deanna Cervantes,Printer,Technology,Printer,South,1999.9,511.35,9
+,,,,,,,1053582.2,,
