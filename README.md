@@ -66,6 +66,10 @@ The project uses an Ecommerce Sales Dataset in CSV and Excel formats.
 * Found top-performing products
 * Visualized sales performance using dashboards
 
+## Dashboard Preview
+
+![Dashboard](PowerBI_Project/Screenshots/dashboard.png)
+
 ## Author
 
 Kruthika Patil
